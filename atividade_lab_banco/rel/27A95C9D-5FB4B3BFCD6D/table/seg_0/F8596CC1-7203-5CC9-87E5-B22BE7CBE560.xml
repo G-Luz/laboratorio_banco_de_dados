@@ -1,0 +1,146 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F8596CC1-7203-5CC9-87E5-B22BE7CBE560" name="Vendas">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes às vendas.]]></comment>
+<generatorID>99A9063F-7889-4D1D-8C78-88E92D6893CD</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ven_id" id="A8514E61-DE71-185E-45B5-B1A8CB0303E0">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a primary key da relação.]]></commentInRDBMS>
+<generatorID>FE554293-7259-0A8D-D079-8E10DEBB1C2A</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_ven</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_ven</autoIncrementTriggerName>
+</Column>
+<Column name="ven_data" id="E13089F0-403C-2A6C-A221-0EBDCDF0876D">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena a data das compras.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena a data das compras.]]></commentInRDBMS>
+<generatorID>4471A4F9-5F8A-51F5-B07E-F8E6D9E20357</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ven_valor_final" id="8D2A1C98-D88D-7882-4416-7A1E407C7A19">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o valor final das compras.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o valor final das compras.]]></commentInRDBMS>
+<generatorID>F835E71F-9DB5-B513-7B89-0CBCEDAC42D6</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ven_valor_icms_total" id="C98652E8-FDF9-9184-AE2D-68555018D437">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o valor total do ICMS da venda.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o valor total do ICMS da venda.]]></commentInRDBMS>
+<generatorID>6DAD6597-AD85-4C4C-9F50-EDA71AED4EE1</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ven_cpf_comprador" id="65471E91-67D8-85A0-CDD7-02D51FB5E2A5">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o CPF do comprador.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o CPF do comprador.]]></commentInRDBMS>
+<generatorID>47927A7C-5F33-D2B6-E5FC-14762B2CBFAA</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>11 CHAR</dataTypeSize>
+<ownDataTypeParameters>11 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ven_cnpj_comprador" id="9F582B7A-4003-FD57-483A-848BF3521DD8">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o CNPJ do comprador.]]></comment>
+<commentInRDBMS><![CDATA[  Esta coluna armazena o CNPJ do comprador]]></commentInRDBMS>
+<generatorID>0BA31CE0-2CDA-0A84-140F-36FE6ABA92B8</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>14 CHAR</dataTypeSize>
+<ownDataTypeParameters>14 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Funcionarios_fun_id" id="2273C1A2-DC48-B5B9-07B8-752DADE4A6AE">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a foreign key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a foreign key da relação relacionada com Funcionarios..]]></commentInRDBMS>
+<generatorID>0F79DEF4-84A8-448F-E6AB-E6BF26A1F2C0</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="4B67514F-FAF8-783E-0C8A-2D286A45A00E" referredColumn="67CE529F-1E4D-CBA5-BB07-FB59ED3DB511"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="E1E120B4-C4EB-8AD1-E6C3-C05F19D0DAC0" name="Vendas_PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<generatorID>2A6DEBF0-FB50-C685-6F71-16445472D3FE</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A8514E61-DE71-185E-45B5-B1A8CB0303E0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="B18595DF-34B4-0106-FBC6-7962579E04DD" name="Vendas_Funcionarios_FK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<generatorID>78EA6868-78F5-2EEC-2843-1B5CBF3B8025</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2273C1A2-DC48-B5B9-07B8-752DADE4A6AE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

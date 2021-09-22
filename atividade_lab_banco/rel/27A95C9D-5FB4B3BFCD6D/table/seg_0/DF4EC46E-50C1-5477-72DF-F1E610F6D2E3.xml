@@ -1,0 +1,58 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="DF4EC46E-50C1-5477-72DF-F1E610F6D2E3" name="Categorias">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes às categorias.]]></comment>
+<generatorID>79B020E2-2CF3-6EC3-696C-95DBE7CBCDF0</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="cat_id" id="C9DCD76E-65BE-6720-E6F8-269A4B58C6E1">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a pk da relação.]]></commentInRDBMS>
+<generatorID>DA39A83A-E22B-87B2-76F7-3D685EEEDEFB</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_cat</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_cat</autoIncrementTriggerName>
+</Column>
+<Column name="cat_nome" id="81679A85-5FDE-3DAF-763E-8BC2BE9F0AE0">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o nome das categorias de livros.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o nome das categorias de livros.]]></commentInRDBMS>
+<generatorID>76FA9574-056E-65A1-5BB4-6039644B69B7</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="081F5E60-DC93-F4B7-82B1-6CD7C05CDDE8" name="Categorias_PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<generatorID>297808E3-F8E0-D960-36F7-BC24B21AA06E</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C9DCD76E-65BE-6720-E6F8-269A4B58C6E1"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

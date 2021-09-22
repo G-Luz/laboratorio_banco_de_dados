@@ -1,0 +1,86 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="28B81D30-D745-B769-930E-9FEF90E3B29F" name="Funcionarios">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes aos funcionários.]]></comment>
+<generatorID>B0D0D180-93B1-2E5A-74B7-C4EB32153DAA</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="fun_id" id="67CE529F-1E4D-CBA5-BB07-FB59ED3DB511">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a primary key da relação.]]></commentInRDBMS>
+<generatorID>F353032D-C955-3A48-34F0-C6ABAD1EED15</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_fun</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_fun</autoIncrementTriggerName>
+</Column>
+<Column name="fun_nome" id="BA9AA5B7-B37D-73C2-CE5F-9F04CF51E638">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o nome do funcionário.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o nome do funcionário.]]></commentInRDBMS>
+<generatorID>7F71821C-F52B-050B-EACF-5784F98DD60E</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="fun_cargo" id="E40031C2-8C98-DE00-92A8-19CA904E7D68">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o cargo do funcionário.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o cargo do funcionário.]]></commentInRDBMS>
+<generatorID>6ADA05FD-CDC6-9608-7214-A7C4A4D65D4E</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="fun_matricula" id="5CA004AA-A1F8-B05B-2860-B96EE54794C5">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena a matrícula do funcionário.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena a matrícula do funcionário.]]></commentInRDBMS>
+<generatorID>BA012877-F085-F314-28D5-6DEF3D7E48C3</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 CHAR</dataTypeSize>
+<ownDataTypeParameters>30 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="26615BCD-D7DB-0C40-5FF1-3E651D77EF67" name="Funcionarios_PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<generatorID>5392B233-7CA4-78D5-0EB5-8EDA7E607EAD</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="67CE529F-1E4D-CBA5-BB07-FB59ED3DB511"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

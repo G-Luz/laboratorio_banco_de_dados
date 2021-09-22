@@ -1,0 +1,83 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3EA8CCF7-7FB9-D949-D261-82ADA872F814" name="Livros_Autores">
+<createdBy>root</createdBy>
+<createdTime>2021-08-13 18:56:10 UTC</createdTime>
+<comment><![CDATA[Tabela associativa entre a Tabela de Livros e Autores]]></comment>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>relation_2</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Livros_lvr_id" id="D6711A63-6B98-A39A-B114-68A7FA8E30B4">
+<createdBy>root</createdBy>
+<createdTime>2021-08-13 18:56:10 UTC</createdTime>
+<comment><![CDATA[Esta coluna relaciona a tabela livros com a tabela autores]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna relaciona a tabela livros com a tabela autores]]></commentInRDBMS>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="107AF1C9-50A3-3790-9020-C4B83CCC0B0C" referredColumn="6930C2AE-8334-F2BD-0704-A175CC530451"/>
+</associations>
+</Column>
+<Column name="Autores_aut_id" id="31A2E66C-E919-A7C9-1417-D1B98BC71D92">
+<createdBy>root</createdBy>
+<createdTime>2021-08-13 18:56:11 UTC</createdTime>
+<comment><![CDATA[Esta coluna relaciona a tabela livros  com a tabela autores]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna relaciona a tabela livros  com a tabela autores]]></commentInRDBMS>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="3F2BDD15-63F4-6BEF-6034-1465722274CE" referredColumn="83A494F2-7841-5F0E-5121-296C7DACFE63"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="306B9CD6-C183-694F-71E0-7C5EF42E429C" name="Relation_2_PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-13 18:56:10 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D6711A63-6B98-A39A-B114-68A7FA8E30B4"/>
+<colUsage columnID="31A2E66C-E919-A7C9-1417-D1B98BC71D92"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="7EFA0086-221A-A593-6DAA-D35C8FAEF3E3" name="Relation_2_Livros_FK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-13 18:56:10 UTC</createdTime>
+<generatorID>39EDE621-0D92-F4A4-CDF3-E222F38B1282</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D6711A63-6B98-A39A-B114-68A7FA8E30B4"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AC496E95-BE0B-B5A3-C33F-19394CE53E37" name="Relation_2_Autores_FK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-13 18:56:11 UTC</createdTime>
+<generatorID>39EDE621-0D92-F4A4-CDF3-E222F38B1282</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="31A2E66C-E919-A7C9-1417-D1B98BC71D92"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

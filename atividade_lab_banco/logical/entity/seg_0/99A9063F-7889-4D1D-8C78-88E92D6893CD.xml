@@ -1,0 +1,130 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="99A9063F-7889-4D1D-8C78-88E92D6893CD" name="Vendas">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:40 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ven_id" id="FE554293-7259-0A8D-D079-8E10DEBB1C2A">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:44 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ven_data" id="4471A4F9-5F8A-51F5-B07E-F8E6D9E20357">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:47 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ven_valor_final" id="F835E71F-9DB5-B513-7B89-0CBCEDAC42D6">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:57 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ven_valor_icms_total" id="6DAD6597-AD85-4C4C-9F50-EDA71AED4EE1">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:16:17 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ven_cpf_comprador" id="47927A7C-5F33-D2B6-E5FC-14762B2CBFAA">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:16:29 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>11 CHAR</dataTypeSize>
+<ownDataTypeParameters>11 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ven_cnpj_comprador" id="0BA31CE0-2CDA-0A84-140F-36FE6ABA92B8">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:16:37 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>14 CHAR</dataTypeSize>
+<ownDataTypeParameters>14 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fun_id" id="0F79DEF4-84A8-448F-E6AB-E6BF26A1F2C0">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:31:34 UTC</createdTime>
+<generatorID>78EA6868-78F5-2EEC-2843-1B5CBF3B8025</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<referedAttribute>F353032D-C955-3A48-34F0-C6ABAD1EED15</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="2A6DEBF0-FB50-C685-6F71-16445472D3FE" name="Vendas PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:28:50 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>FE554293-7259-0A8D-D079-8E10DEBB1C2A</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

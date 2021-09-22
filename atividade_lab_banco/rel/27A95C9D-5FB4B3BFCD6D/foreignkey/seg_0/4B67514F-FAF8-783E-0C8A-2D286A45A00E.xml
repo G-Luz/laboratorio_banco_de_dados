@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="4B67514F-FAF8-783E-0C8A-2D286A45A00E" containerWithKeyObject="F8596CC1-7203-5CC9-87E5-B22BE7CBE560" localFKIndex="B18595DF-34B4-0106-FBC6-7962579E04DD" name="Vendas_Funcionarios_FK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<generatorID>78EA6868-78F5-2EEC-2843-1B5CBF3B8025</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<referredTableLongName>Funcionarios</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>28B81D30-D745-B769-930E-9FEF90E3B29F</referredTableID>
+<keyObject>26615BCD-D7DB-0C40-5FF1-3E651D77EF67</keyObject>
+<referredKeyID>26615BCD-D7DB-0C40-5FF1-3E651D77EF67</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_fun</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

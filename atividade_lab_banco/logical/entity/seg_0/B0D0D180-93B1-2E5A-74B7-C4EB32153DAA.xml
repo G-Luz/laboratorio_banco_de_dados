@@ -1,0 +1,86 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="B0D0D180-93B1-2E5A-74B7-C4EB32153DAA" name="Funcionarios">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:15 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="fun_id" id="F353032D-C955-3A48-34F0-C6ABAD1EED15">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:21 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fun_nome" id="7F71821C-F52B-050B-EACF-5784F98DD60E">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:26 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fun_cargo" id="6ADA05FD-CDC6-9608-7214-A7C4A4D65D4E">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:15:32 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fun_matricula" id="BA012877-F085-F314-28D5-6DEF3D7E48C3">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:19:16 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 CHAR</dataTypeSize>
+<ownDataTypeParameters>30 CHAR,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="5392B233-7CA4-78D5-0EB5-8EDA7E607EAD" name="Funcionarios PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:27:09 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>F353032D-C955-3A48-34F0-C6ABAD1EED15</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

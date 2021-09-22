@@ -1,0 +1,60 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="79B020E2-2CF3-6EC3-696C-95DBE7CBCDF0" name="Categorias">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:13:29 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="cat_id" id="DA39A83A-E22B-87B2-76F7-3D685EEEDEFB">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:13:40 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="cat_nome" id="76FA9574-056E-65A1-5BB4-6039644B69B7">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:13:49 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="297808E3-F8E0-D960-36F7-BC24B21AA06E" name="Categorias PK">
+<createdBy>root</createdBy>
+<createdTime>2021-08-11 19:13:56 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="27A95C9D-5A66-4294-11A2-5FB4B3BFCD6D" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>DA39A83A-E22B-87B2-76F7-3D685EEEDEFB</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>
