@@ -1,0 +1,100 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F310202C-3ACD-DFE5-422D-D23B6265DC65" name="HLIVROS">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:45:14 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes aos livros]]></comment>
+<generatorID>7BBF5C40-FAF4-DB04-C5BC-A13D8030643D</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>livrosv1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="hlvr_id" id="444FEEED-F50F-B613-B9C8-1D5731B12707">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:45:14 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a primary key da relação.]]></commentInRDBMS>
+<generatorID>43C456C1-E94D-001E-A957-047B3252AE56</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_lvr</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_lvr</autoIncrementTriggerName>
+</Column>
+<Column name="hlvr_preco_capa" id="74EFAD0B-25D5-240E-0B79-3F1E8AEB5B35">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:45:14 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o preço de capa do livro.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o preço de capa do livro.]]></commentInRDBMS>
+<generatorID>CA9AC2FF-D526-2D6E-6617-6AAC2EC431DB</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlvr_preco_venda" id="E12239C4-0E64-4EC2-64AF-0AF14F0E3614">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:45:14 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o preço de venda]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o preço de venda]]></commentInRDBMS>
+<generatorID>E79C92F2-EC4A-0150-74CD-56A011DCB105</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlvr_nome" id="A2C1D5A1-550A-CAB7-AFAB-990057E54654">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:45:14 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o nome dos livros.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o nome dos livros.]]></commentInRDBMS>
+<generatorID>C45D7910-88EB-7D82-EC25-7180F8704D5C</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlvr_dt_entrada" id="0118F6A0-CF84-6643-F57A-3CE8BD8FD66B">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:46:58 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1DEE697B-F13C-BCE6-C3C2-AA60A123924A" name="PK_HLVR">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 03:45:14 UTC</createdTime>
+<generatorID>747C6088-5BFE-B786-F650-79BE84DFAA86</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="444FEEED-F50F-B613-B9C8-1D5731B12707"/>
+<colUsage columnID="0118F6A0-CF84-6643-F57A-3CE8BD8FD66B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

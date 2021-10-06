@@ -1,0 +1,98 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9FE5E2F1-E1EC-48E9-D6D1-859780230FAB" name="HFUNCIONARIOS">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:16:45 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes aos funcionários.]]></comment>
+<generatorID>B0D0D180-93B1-2E5A-74B7-C4EB32153DAA</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>funcionariosv1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="hfun_id" id="5B2797A2-6F74-8CFE-DEA7-1946FFA35923">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:16:45 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a primary key da relação.]]></commentInRDBMS>
+<generatorID>F353032D-C955-3A48-34F0-C6ABAD1EED15</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_fun</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_fun</autoIncrementTriggerName>
+</Column>
+<Column name="hfun_nome" id="44D844CA-DB34-F5D1-6D09-A85F46AC0D19">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:16:45 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o nome do funcionário.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o nome do funcionário.]]></commentInRDBMS>
+<generatorID>7F71821C-F52B-050B-EACF-5784F98DD60E</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hfun_cargo" id="3958C98A-9A48-EE0C-2011-A6FBBFF2144C">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:16:45 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o cargo do funcionário.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o cargo do funcionário.]]></commentInRDBMS>
+<generatorID>6ADA05FD-CDC6-9608-7214-A7C4A4D65D4E</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hfun_matricula" id="5D2AC8A0-BA50-EE2B-5E61-AF3CF7683548">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:16:45 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena a matrícula do funcionário.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena a matrícula do funcionário.]]></commentInRDBMS>
+<generatorID>BA012877-F085-F314-28D5-6DEF3D7E48C3</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 CHAR</dataTypeSize>
+<ownDataTypeParameters>30 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hfun_dt_entrada" id="A26C3F59-D8F0-BC77-139D-D5B06C4E5E91">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:17:44 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="DFE0D2E5-9435-9E18-15B9-8EED685ACF16" name="PK_HFUN">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:16:45 UTC</createdTime>
+<generatorID>5392B233-7CA4-78D5-0EB5-8EDA7E607EAD</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5B2797A2-6F74-8CFE-DEA7-1946FFA35923"/>
+<colUsage columnID="A26C3F59-D8F0-BC77-139D-D5B06C4E5E91"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

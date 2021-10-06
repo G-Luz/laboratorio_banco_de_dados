@@ -9,7 +9,7 @@
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="Livros_lvr_id" id="D6711A63-6B98-A39A-B114-68A7FA8E30B4">
+<Column name="lau_lvr_id" id="D6711A63-6B98-A39A-B114-68A7FA8E30B4">
 <createdBy>root</createdBy>
 <createdTime>2021-08-13 18:56:10 UTC</createdTime>
 <comment><![CDATA[Esta coluna relaciona a tabela livros com a tabela autores]]></comment>
@@ -26,7 +26,7 @@
 <colAssociation fkAssociation="107AF1C9-50A3-3790-9020-C4B83CCC0B0C" referredColumn="6930C2AE-8334-F2BD-0704-A175CC530451"/>
 </associations>
 </Column>
-<Column name="Autores_aut_id" id="31A2E66C-E919-A7C9-1417-D1B98BC71D92">
+<Column name="lau_aut_id" id="31A2E66C-E919-A7C9-1417-D1B98BC71D92">
 <createdBy>root</createdBy>
 <createdTime>2021-08-13 18:56:11 UTC</createdTime>
 <comment><![CDATA[Esta coluna relaciona a tabela livros  com a tabela autores]]></comment>

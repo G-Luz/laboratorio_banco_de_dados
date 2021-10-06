@@ -9,7 +9,7 @@
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="Livros_lvr_id" id="920B5E00-E087-A328-7824-F5110339476C">
+<Column name="lvc_lvr_id" id="920B5E00-E087-A328-7824-F5110339476C">
 <createdBy>root</createdBy>
 <createdTime>2021-08-13 18:56:10 UTC</createdTime>
 <comment><![CDATA[Esta coluna é uma pf da relação Livros-Categorias.]]></comment>
@@ -25,7 +25,7 @@
 <colAssociation fkAssociation="CF1C36FA-4CB3-B5AE-4773-E10DDC31D904" referredColumn="6930C2AE-8334-F2BD-0704-A175CC530451"/>
 </associations>
 </Column>
-<Column name="Categorias_cat_id" id="28682604-48C3-D38B-D558-502C75F8903E">
+<Column name="lvc_cat_id" id="28682604-48C3-D38B-D558-502C75F8903E">
 <createdBy>root</createdBy>
 <createdTime>2021-08-13 18:56:10 UTC</createdTime>
 <comment><![CDATA[Esta coluna é uma pf da relação Livros-Categorias.]]></comment>

@@ -1,0 +1,64 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="302504F2-7FAC-F409-CC05-65436CC28916" name="HLIVROS_CATEGORIAS">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:01:16 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes às relações entre as tabelas Livros e Categorias.]]></comment>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>relation_1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="hlvc_lvr_id" id="9AD3F0D8-7FB6-C033-7218-13BF2FC638F7">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:01:16 UTC</createdTime>
+<comment><![CDATA[Esta coluna é uma pf da relação Livros-Categorias.]]></comment>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlvc_cat_id" id="646E20B6-10FA-B127-A742-F85E0C158433">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:01:16 UTC</createdTime>
+<comment><![CDATA[Esta coluna é uma pf da relação Livros-Categorias.]]></comment>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlvc_dt_entrada" id="EB3FC65B-08F7-D7CD-E9F4-A3860D8E98DC">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:03:22 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="84A694DB-05FE-EF37-23A1-26724856A752" name="PK_HLVC">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:01:16 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9AD3F0D8-7FB6-C033-7218-13BF2FC638F7"/>
+<colUsage columnID="646E20B6-10FA-B127-A742-F85E0C158433"/>
+<colUsage columnID="EB3FC65B-08F7-D7CD-E9F4-A3860D8E98DC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

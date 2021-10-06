@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="9382F96A-C597-ED9A-5468-CE333E255238" name="Vendas_Livros">
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="743336A9-93E6-FE45-A140-9476ABDB4A90" name="HVENDAS_LIVROS">
 <createdBy>root</createdBy>
-<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<createdTime>2021-10-02 04:21:23 UTC</createdTime>
 <comment><![CDATA[Esta tabela armazena dados referentes às relações entre as tabelas Vendas e Livros.]]></comment>
 <ownerDesignName>atividade_lab_banco</ownerDesignName>
 <ordsAlias>relation_6</ordsAlias>
@@ -9,41 +9,33 @@
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="vlv_lvr_id" id="6D9AA6F8-5EF9-76AB-1A80-A229B8957F17">
+<Column name="hvlv_lvr_id" id="2AFE8A59-2A16-BCCC-EA06-74CE8EB32D65">
 <createdBy>root</createdBy>
-<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<createdTime>2021-10-02 04:21:23 UTC</createdTime>
 <comment><![CDATA[Esta coluna armazena a primary key (lvr_id) da tabela de Livros.]]></comment>
 <ownerDesignName>atividade_lab_banco</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT019</logicalDatatype>
-<dataTypePrecision>6</dataTypePrecision>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
-<associations>
-<colAssociation fkAssociation="DF066F9D-4B71-0CEC-6307-CF854E5FD713" referredColumn="6930C2AE-8334-F2BD-0704-A175CC530451"/>
-</associations>
 </Column>
-<Column name="vlv_id_ven" id="E78E0900-4C77-18B6-B1B5-963E7BE64902">
+<Column name="hvlv_id_ven" id="66DC84B5-0A5A-CAB8-84C6-724B40534701">
 <createdBy>root</createdBy>
-<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<createdTime>2021-10-02 04:21:23 UTC</createdTime>
 <comment><![CDATA[Esta coluna armazena a primary key (ven_id) da tabela de Vendas.]]></comment>
 <ownerDesignName>atividade_lab_banco</ownerDesignName>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT019</logicalDatatype>
-<dataTypePrecision>6</dataTypePrecision>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
-<associations>
-<colAssociation fkAssociation="6450E4F1-6269-658F-25AC-8AA1B84D4564" referredColumn="A8514E61-DE71-185E-45B5-B1A8CB0303E0"/>
-</associations>
 </Column>
-<Column name="vlv_ven_valor_icms_unitario" id="20EBC9F1-D489-29BE-48D0-E9A3E3D4EB84">
+<Column name="hvlv_ven_valor_icms_unitario" id="CE2ECFB1-4994-0797-5D49-71B991996E36">
 <createdBy>root</createdBy>
-<createdTime>2021-08-13 18:56:11 UTC</createdTime>
+<createdTime>2021-10-02 04:21:23 UTC</createdTime>
 <comment><![CDATA[Esta coluna armazena o valor unitário de Imposto sobre Circulação de Mercadorias e Serviços.]]></comment>
 <generatorID>D3A9C2B6-73CD-8BC8-5AFB-5DE54679F13E</generatorID>
 <ownerDesignName>atividade_lab_banco</ownerDesignName>
@@ -54,42 +46,30 @@
 <dataTypeScale>2</dataTypeScale>
 <ownDataTypeParameters>,8,2</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
-<isRelationshipColumn>true</isRelationshipColumn>
+</Column>
+<Column name="hvlv_dt_entrada" id="25D178A4-213F-D726-86E6-669FEF3CEF90">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:22:28 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
 </Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
-<ind_PK_UK id="B0D32A13-1216-3A64-BA15-8C75FF666A4C" name="Relation_6_PK">
+<ind_PK_UK id="D4445AB9-7ACA-A853-1416-A2838C476103" name="PK_VLV">
 <createdBy>root</createdBy>
-<createdTime>2021-08-12 00:53:07 UTC</createdTime>
+<createdTime>2021-10-02 04:21:23 UTC</createdTime>
 <ownerDesignName>atividade_lab_banco</ownerDesignName>
 <pk>true</pk>
 <indexState>Primary Constraint</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="6D9AA6F8-5EF9-76AB-1A80-A229B8957F17"/>
-<colUsage columnID="E78E0900-4C77-18B6-B1B5-963E7BE64902"/>
-</indexColumnUsage>
-</ind_PK_UK>
-<ind_PK_UK id="5DF04329-B14C-76F9-0693-3C6D63D36EA2" name="Relation_6_Livros_FK">
-<createdBy>root</createdBy>
-<createdTime>2021-08-12 00:53:07 UTC</createdTime>
-<generatorID>CF624CA6-0A4C-8E4D-8740-CCB86C368E31</generatorID>
-<ownerDesignName>atividade_lab_banco</ownerDesignName>
-<indexState>Foreign Key</indexState>
-<isSurrogateKey>false</isSurrogateKey>
-<indexColumnUsage>
-<colUsage columnID="6D9AA6F8-5EF9-76AB-1A80-A229B8957F17"/>
-</indexColumnUsage>
-</ind_PK_UK>
-<ind_PK_UK id="3E5726C0-CCB3-1D36-56C5-4CB9E0D9E043" name="Relation_6_Vendas_FK">
-<createdBy>root</createdBy>
-<createdTime>2021-08-12 00:53:07 UTC</createdTime>
-<generatorID>CF624CA6-0A4C-8E4D-8740-CCB86C368E31</generatorID>
-<ownerDesignName>atividade_lab_banco</ownerDesignName>
-<indexState>Foreign Key</indexState>
-<isSurrogateKey>false</isSurrogateKey>
-<indexColumnUsage>
-<colUsage columnID="E78E0900-4C77-18B6-B1B5-963E7BE64902"/>
+<colUsage columnID="2AFE8A59-2A16-BCCC-EA06-74CE8EB32D65"/>
+<colUsage columnID="66DC84B5-0A5A-CAB8-84C6-724B40534701"/>
+<colUsage columnID="25D178A4-213F-D726-86E6-669FEF3CEF90"/>
 </indexColumnUsage>
 </ind_PK_UK>
 </indexes>

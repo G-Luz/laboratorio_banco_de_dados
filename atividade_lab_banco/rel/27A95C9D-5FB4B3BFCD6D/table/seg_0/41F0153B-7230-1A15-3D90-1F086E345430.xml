@@ -1,0 +1,129 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="41F0153B-7230-1A15-3D90-1F086E345430" name="HVENDAS">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes às vendas.]]></comment>
+<generatorID>99A9063F-7889-4D1D-8C78-88E92D6893CD</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>vendasv1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="hven_id" id="07310E9F-7DB2-BC82-F23C-4A5934AAE8B5">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a primary key da relação.]]></commentInRDBMS>
+<generatorID>FE554293-7259-0A8D-D079-8E10DEBB1C2A</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_ven</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_ven</autoIncrementTriggerName>
+</Column>
+<Column name="hven_data" id="61802477-C277-CCD5-13ED-DDDBB1FC9586">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena a data das compras.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena a data das compras.]]></commentInRDBMS>
+<generatorID>4471A4F9-5F8A-51F5-B07E-F8E6D9E20357</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT008</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hven_valor_final" id="E2D2F14F-C5F1-9DDD-D615-0C015F4B0447">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o valor final das compras.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o valor final das compras.]]></commentInRDBMS>
+<generatorID>F835E71F-9DB5-B513-7B89-0CBCEDAC42D6</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hven_valor_icms_total" id="F2A9E624-1551-033E-4D58-5B3F9696AB0C">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o valor total do ICMS da venda.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o valor total do ICMS da venda.]]></commentInRDBMS>
+<generatorID>6DAD6597-AD85-4C4C-9F50-EDA71AED4EE1</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<dataTypePrecision>8</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,8,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hven_cpf_comprador" id="56687153-E824-249B-1E40-0546DEAB46E6">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o CPF do comprador.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o CPF do comprador.]]></commentInRDBMS>
+<generatorID>47927A7C-5F33-D2B6-E5FC-14762B2CBFAA</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>11 CHAR</dataTypeSize>
+<ownDataTypeParameters>11 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hven_cnpj_comprador" id="F7C5A8DD-C6ED-BCB0-7F37-F14D471ABA6D">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o CNPJ do comprador.]]></comment>
+<commentInRDBMS><![CDATA[  Esta coluna armazena o CNPJ do comprador]]></commentInRDBMS>
+<generatorID>0BA31CE0-2CDA-0A84-140F-36FE6ABA92B8</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>14 CHAR</dataTypeSize>
+<ownDataTypeParameters>14 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hven_dt_entrada" id="00D4BEBF-2941-23E1-C8D4-EF7408E35B0B">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:20:12 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="14CA48D9-C4B0-EF85-9973-DCB68C75FC8C" name="PK_HVEN">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:19:04 UTC</createdTime>
+<generatorID>2A6DEBF0-FB50-C685-6F71-16445472D3FE</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="07310E9F-7DB2-BC82-F23C-4A5934AAE8B5"/>
+<colUsage columnID="00D4BEBF-2941-23E1-C8D4-EF7408E35B0B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,70 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="113071D4-8732-B788-39D7-C040CF157887" name="HAUTORES">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:11:18 UTC</createdTime>
+<comment><![CDATA[Esta tabela armazena dados referentes aos autores]]></comment>
+<generatorID>66BD328D-CF31-3404-84A7-C81CEC4D91F9</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>autoresv1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="haut_id" id="2B17B73F-7BF4-DC04-2FA3-E68E94B885B5">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:11:18 UTC</createdTime>
+<comment><![CDATA[Esta coluna é a primary key da relação.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna é a primary key da relação.]]></commentInRDBMS>
+<generatorID>73CF096E-A3E8-FA81-E5B9-682DFB91483A</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementColumn>true</autoIncrementColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<autoIncrementSequenceName>seq_aut</autoIncrementSequenceName>
+<autoIncrementTriggerName>tg_seq_aut</autoIncrementTriggerName>
+</Column>
+<Column name="haut_nome" id="5AA829C6-C842-7769-433B-66BDC41D797D">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:11:18 UTC</createdTime>
+<comment><![CDATA[Esta coluna armazena o nome do autor.]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna armazena o nome do autor.]]></commentInRDBMS>
+<generatorID>EAE39715-5755-2BE8-AA98-005B8255A500</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="haut_dt_entrada" id="0E5CF05D-2619-D094-D914-F1FC8F8A7BF6">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:12:58 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7FF8245B-C1E5-4510-EC4E-8750FF204A82" name="PK_HAUT">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:11:18 UTC</createdTime>
+<generatorID>632C0AA7-3457-CA6B-A585-94CC9B7E66B9</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2B17B73F-7BF4-DC04-2FA3-E68E94B885B5"/>
+<colUsage columnID="0E5CF05D-2619-D094-D914-F1FC8F8A7BF6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

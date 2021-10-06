@@ -1,0 +1,66 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="A7B6B95C-5D3D-B42A-E705-FA745FA01823" name="HLIVROS_AUTORES">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:13:35 UTC</createdTime>
+<comment><![CDATA[Tabela associativa entre a Tabela de Livros e Autores]]></comment>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>relation_2</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="hlau_lvr_id" id="FC0E2653-8DA4-C08F-7186-7C5C733D3551">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:13:35 UTC</createdTime>
+<comment><![CDATA[Esta coluna relaciona a tabela livros com a tabela autores]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna relaciona a tabela livros com a tabela autores]]></commentInRDBMS>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlau_aut_id" id="ED834485-FECA-A941-69D3-F9C7E90D5D28">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:13:35 UTC</createdTime>
+<comment><![CDATA[Esta coluna relaciona a tabela livros  com a tabela autores]]></comment>
+<commentInRDBMS><![CDATA[Esta coluna relaciona a tabela livros  com a tabela autores]]></commentInRDBMS>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="hlau_dt_entrada" id="5A2EF6A8-DCE9-8EF9-F819-7DA1A65FB7E2">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:15:36 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="EAD4A75F-DA1B-49B7-2562-78E584698201" name="PK_HLAU">
+<createdBy>root</createdBy>
+<createdTime>2021-10-02 04:13:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FC0E2653-8DA4-C08F-7186-7C5C733D3551"/>
+<colUsage columnID="ED834485-FECA-A941-69D3-F9C7E90D5D28"/>
+<colUsage columnID="5A2EF6A8-DCE9-8EF9-F819-7DA1A65FB7E2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
