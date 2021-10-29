@@ -1,0 +1,62 @@
+[
+	{
+		"fun_id": 1,
+		"fun_nome": "Frajuca Alvarenga",
+		"fun_cargo": "Auxiliaradministrativo",
+		"fun_matricula": ""045671444871744""
+	},
+	{
+		"fun_id": 2,
+		"fun_nome": "Lola Marmou",
+		"fun_cargo": "Auxiliaradministrativo",
+		"fun_matricula": ""460561494838612""
+	},
+	{
+		"fun_id": 3,
+		"fun_nome": "Vicente Frajuca",
+		"fun_cargo": "Auxiliaradministrativo",
+		"fun_matricula": ""733268750791773""
+	},
+	{
+		"fun_id": 4,
+		"fun_nome": "Cidreira Vicente",
+		"fun_cargo": "Recepcionista",
+		"fun_matricula": ""311622124832981""
+	},
+	{
+		"fun_id": 5,
+		"fun_nome": "Pêcego Canário",
+		"fun_cargo": "Recepcionista",
+		"fun_matricula": ""637214861527455""
+	},
+	{
+		"fun_id": 6,
+		"fun_nome": "Pádua Cidreira",
+		"fun_cargo": "Recepcionista",
+		"fun_matricula": ""749539471847096""
+	},
+	{
+		"fun_id": 7,
+		"fun_nome": "Canário Sahara",
+		"fun_cargo": "Recepcionista",
+		"fun_matricula": ""423708102725108""
+	},
+	{
+		"fun_id": 8,
+		"fun_nome": "Cidreira Vicente",
+		"fun_cargo": "Recepcionista",
+		"fun_matricula": ""741451847478365""
+	},
+	{
+		"fun_id": 9,
+		"fun_nome": "Alvarenga Élson",
+		"fun_cargo": "Recepcionista",
+		"fun_matricula": ""984119243135278""
+	},
+	{
+		"fun_id": 10,
+		"fun_nome": "Pádua Cidreira",
+		"fun_cargo": "Auxiliaradministrativo",
+		"fun_matricula": ""167314655348141""
+	}
+]

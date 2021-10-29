@@ -1,0 +1,2252 @@
+[
+	{
+		"ven_id": 1,
+		"ven_data": "24/11/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 56,
+		"ven_cpf_comprador": 14274835236,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 2,
+		"ven_data": "18/07/2022",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 16881763182,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 3,
+		"ven_data": "22/07/2021",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 18134537377,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 4,
+		"ven_data": "16/07/2022",
+		"ven_valor_final": 107,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 18128840212,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 5,
+		"ven_data": "19/08/2022",
+		"ven_valor_final": 121,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 16910687036,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 6,
+		"ven_data": "22/01/2021",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 14964041687,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 7,
+		"ven_data": "06/02/2022",
+		"ven_valor_final": 112,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 12272319535,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 8,
+		"ven_data": "16/08/2021",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 15504408417,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 9,
+		"ven_data": "19/06/2022",
+		"ven_valor_final": 139,
+		"ven_valor_icms_total": 40,
+		"ven_cpf_comprador": 12486797852,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 10,
+		"ven_data": "04/10/2021",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 15048135236,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 11,
+		"ven_data": "23/08/2022",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 62,
+		"ven_cpf_comprador": 14323489681,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 12,
+		"ven_data": "20/12/2021",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 47,
+		"ven_cpf_comprador": 18683948243,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 13,
+		"ven_data": "14/10/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 10603509990,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 14,
+		"ven_data": "11/06/2022",
+		"ven_valor_final": 106,
+		"ven_valor_icms_total": 28,
+		"ven_cpf_comprador": 18458359575,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 15,
+		"ven_data": "27/03/2022",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 62,
+		"ven_cpf_comprador": 17593481155,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 16,
+		"ven_data": "14/01/2022",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 65,
+		"ven_cpf_comprador": 17633890784,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 17,
+		"ven_data": "16/12/2020",
+		"ven_valor_final": 101,
+		"ven_valor_icms_total": 29,
+		"ven_cpf_comprador": 17298676677,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 18,
+		"ven_data": "10/06/2022",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 15566517364,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 19,
+		"ven_data": "09/08/2022",
+		"ven_valor_final": 101,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 19522856953,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 20,
+		"ven_data": "21/02/2021",
+		"ven_valor_final": 106,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 12595421850,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 21,
+		"ven_data": "28/07/2022",
+		"ven_valor_final": 129,
+		"ven_valor_icms_total": 59,
+		"ven_cpf_comprador": 12025340765,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 22,
+		"ven_data": "14/06/2021",
+		"ven_valor_final": 137,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 11552523715,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 23,
+		"ven_data": "14/12/2020",
+		"ven_valor_final": 128,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 18276244597,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 24,
+		"ven_data": "23/10/2022",
+		"ven_valor_final": 127,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 12966211754,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 25,
+		"ven_data": "21/01/2021",
+		"ven_valor_final": 149,
+		"ven_valor_icms_total": 39,
+		"ven_cpf_comprador": 15506740847,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 26,
+		"ven_data": "16/07/2022",
+		"ven_valor_final": 121,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 11553666241,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 27,
+		"ven_data": "08/09/2022",
+		"ven_valor_final": 148,
+		"ven_valor_icms_total": 59,
+		"ven_cpf_comprador": 11321752038,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 28,
+		"ven_data": "07/05/2022",
+		"ven_valor_final": 100,
+		"ven_valor_icms_total": 40,
+		"ven_cpf_comprador": 16738847438,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 29,
+		"ven_data": "18/02/2021",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 11663120737,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 30,
+		"ven_data": "14/08/2022",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 11373037841,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 31,
+		"ven_data": "27/03/2021",
+		"ven_valor_final": 125,
+		"ven_valor_icms_total": 50,
+		"ven_cpf_comprador": 13165654239,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 32,
+		"ven_data": "11/11/2020",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 16892324835,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 33,
+		"ven_data": "21/12/2020",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 18634022725,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 34,
+		"ven_data": "29/09/2021",
+		"ven_valor_final": 105,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 15468914491,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 35,
+		"ven_data": "12/02/2022",
+		"ven_valor_final": 146,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 11365527206,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 36,
+		"ven_data": "21/03/2021",
+		"ven_valor_final": 108,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 14791638582,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 37,
+		"ven_data": "24/01/2022",
+		"ven_valor_final": 113,
+		"ven_valor_icms_total": 55,
+		"ven_cpf_comprador": 16602680576,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 38,
+		"ven_data": "25/04/2021",
+		"ven_valor_final": 122,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 12787225974,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 39,
+		"ven_data": "25/12/2020",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 17733837111,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 40,
+		"ven_data": "30/10/2021",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 31,
+		"ven_cpf_comprador": 10432160474,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 41,
+		"ven_data": "18/02/2022",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 63,
+		"ven_cpf_comprador": 13557482332,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 42,
+		"ven_data": "22/06/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 34,
+		"ven_cpf_comprador": 16961812825,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 43,
+		"ven_data": "21/05/2021",
+		"ven_valor_final": 112,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 14827212152,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 44,
+		"ven_data": "02/10/2022",
+		"ven_valor_final": 134,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 19622284234,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 45,
+		"ven_data": "30/12/2020",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 12686548247,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 46,
+		"ven_data": "07/03/2022",
+		"ven_valor_final": 138,
+		"ven_valor_icms_total": 25,
+		"ven_cpf_comprador": 15210193033,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 47,
+		"ven_data": "23/11/2020",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 35,
+		"ven_cpf_comprador": 14325241269,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 48,
+		"ven_data": "20/07/2022",
+		"ven_valor_final": 112,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 12021967443,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 49,
+		"ven_data": "18/05/2022",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 15643551393,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 50,
+		"ven_data": "28/09/2022",
+		"ven_valor_final": 130,
+		"ven_valor_icms_total": 31,
+		"ven_cpf_comprador": 13375565036,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 51,
+		"ven_data": "21/09/2021",
+		"ven_valor_final": 102,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 17001597179,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 52,
+		"ven_data": "13/07/2022",
+		"ven_valor_final": 142,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 18670414584,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 53,
+		"ven_data": "11/09/2022",
+		"ven_valor_final": 127,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 19849693453,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 54,
+		"ven_data": "21/11/2021",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 62,
+		"ven_cpf_comprador": 18497568137,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 55,
+		"ven_data": "02/05/2021",
+		"ven_valor_final": 149,
+		"ven_valor_icms_total": 30,
+		"ven_cpf_comprador": 14801398723,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 56,
+		"ven_data": "08/09/2022",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 12963663632,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 57,
+		"ven_data": "25/03/2021",
+		"ven_valor_final": 145,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 15292467192,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 58,
+		"ven_data": "31/10/2020",
+		"ven_valor_final": 110,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 18107050715,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 59,
+		"ven_data": "22/07/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 13746676783,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 60,
+		"ven_data": "22/11/2020",
+		"ven_valor_final": 112,
+		"ven_valor_icms_total": 59,
+		"ven_cpf_comprador": 18565382720,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 61,
+		"ven_data": "13/05/2022",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 42,
+		"ven_cpf_comprador": 15718327752,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 62,
+		"ven_data": "05/06/2021",
+		"ven_valor_final": 139,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 14217191258,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 63,
+		"ven_data": "04/03/2022",
+		"ven_valor_final": 149,
+		"ven_valor_icms_total": 35,
+		"ven_cpf_comprador": 10373255453,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 64,
+		"ven_data": "08/08/2022",
+		"ven_valor_final": 107,
+		"ven_valor_icms_total": 34,
+		"ven_cpf_comprador": 15493123841,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 65,
+		"ven_data": "13/06/2021",
+		"ven_valor_final": 107,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 12776152409,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 66,
+		"ven_data": "14/03/2022",
+		"ven_valor_final": 123,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 14702111272,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 67,
+		"ven_data": "31/05/2021",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 65,
+		"ven_cpf_comprador": 12816104221,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 68,
+		"ven_data": "12/08/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 18027571340,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 69,
+		"ven_data": "21/03/2021",
+		"ven_valor_final": 122,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 19178155356,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 70,
+		"ven_data": "10/01/2022",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 13273446427,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 71,
+		"ven_data": "07/07/2021",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 16874363574,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 72,
+		"ven_data": "04/11/2021",
+		"ven_valor_final": 102,
+		"ven_valor_icms_total": 30,
+		"ven_cpf_comprador": 11131683656,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 73,
+		"ven_data": "29/09/2022",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 39,
+		"ven_cpf_comprador": 16784653686,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 74,
+		"ven_data": "14/12/2020",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 11276680168,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 75,
+		"ven_data": "30/12/2020",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 35,
+		"ven_cpf_comprador": 15618225717,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 76,
+		"ven_data": "25/10/2021",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 11165648233,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 77,
+		"ven_data": "19/11/2020",
+		"ven_valor_final": 112,
+		"ven_valor_icms_total": 50,
+		"ven_cpf_comprador": 15221063244,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 78,
+		"ven_data": "15/01/2021",
+		"ven_valor_final": 133,
+		"ven_valor_icms_total": 62,
+		"ven_cpf_comprador": 11228173826,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 79,
+		"ven_data": "18/10/2022",
+		"ven_valor_final": 101,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 17552635760,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 80,
+		"ven_data": "27/10/2021",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 17151220555,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 81,
+		"ven_data": "24/01/2021",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 41,
+		"ven_cpf_comprador": 12441827542,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 82,
+		"ven_data": "30/10/2020",
+		"ven_valor_final": 108,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 17635055572,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 83,
+		"ven_data": "19/04/2022",
+		"ven_valor_final": 105,
+		"ven_valor_icms_total": 63,
+		"ven_cpf_comprador": 10724742283,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 84,
+		"ven_data": "29/04/2021",
+		"ven_valor_final": 147,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 16703816767,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 85,
+		"ven_data": "29/03/2021",
+		"ven_valor_final": 138,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 15227713516,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 86,
+		"ven_data": "27/09/2021",
+		"ven_valor_final": 147,
+		"ven_valor_icms_total": 42,
+		"ven_cpf_comprador": 14168567347,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 87,
+		"ven_data": "05/01/2022",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 37,
+		"ven_cpf_comprador": 13416131677,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 88,
+		"ven_data": "08/04/2021",
+		"ven_valor_final": 134,
+		"ven_valor_icms_total": 34,
+		"ven_cpf_comprador": 16405566055,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 89,
+		"ven_data": "10/12/2020",
+		"ven_valor_final": 134,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 11255565066,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 90,
+		"ven_data": "23/08/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 56,
+		"ven_cpf_comprador": 17051472403,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 91,
+		"ven_data": "18/04/2021",
+		"ven_valor_final": 150,
+		"ven_valor_icms_total": 51,
+		"ven_cpf_comprador": 15243512768,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 92,
+		"ven_data": "29/07/2021",
+		"ven_valor_final": 145,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 13326216351,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 93,
+		"ven_data": "13/07/2021",
+		"ven_valor_final": 146,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 17306036176,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 94,
+		"ven_data": "07/09/2021",
+		"ven_valor_final": 138,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 12364690941,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 95,
+		"ven_data": "01/09/2022",
+		"ven_valor_final": 150,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 12298148367,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 96,
+		"ven_data": "06/10/2022",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 47,
+		"ven_cpf_comprador": 15174428953,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 97,
+		"ven_data": "09/06/2022",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 29,
+		"ven_cpf_comprador": 12128212171,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 98,
+		"ven_data": "21/04/2021",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 25,
+		"ven_cpf_comprador": 13743695392,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 99,
+		"ven_data": "13/01/2022",
+		"ven_valor_final": 148,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 13136866322,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 100,
+		"ven_data": "24/01/2022",
+		"ven_valor_final": 133,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 12821923478,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 101,
+		"ven_data": "21/03/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 56,
+		"ven_cpf_comprador": 15444562336,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 102,
+		"ven_data": "27/04/2021",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 28,
+		"ven_cpf_comprador": 15233376460,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 103,
+		"ven_data": "09/10/2021",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 18257302529,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 104,
+		"ven_data": "23/01/2021",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 11685691395,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 105,
+		"ven_data": "20/08/2022",
+		"ven_valor_final": 132,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 10824272258,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 106,
+		"ven_data": "27/03/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 19651081116,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 107,
+		"ven_data": "11/06/2022",
+		"ven_valor_final": 131,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 13177346744,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 108,
+		"ven_data": "14/04/2021",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 38,
+		"ven_cpf_comprador": 11170907048,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 109,
+		"ven_data": "04/05/2021",
+		"ven_valor_final": 128,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 11318044249,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 110,
+		"ven_data": "25/07/2022",
+		"ven_valor_final": 112,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 19022462709,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 111,
+		"ven_data": "13/12/2021",
+		"ven_valor_final": 141,
+		"ven_valor_icms_total": 38,
+		"ven_cpf_comprador": 17886592861,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 112,
+		"ven_data": "09/11/2020",
+		"ven_valor_final": 125,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 18862983151,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 113,
+		"ven_data": "07/03/2021",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 14111859089,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 114,
+		"ven_data": "20/08/2022",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 11281970912,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 115,
+		"ven_data": "18/12/2021",
+		"ven_valor_final": 145,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 12306696028,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 116,
+		"ven_data": "07/01/2022",
+		"ven_valor_final": 132,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 11699586142,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 117,
+		"ven_data": "16/09/2021",
+		"ven_valor_final": 150,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 12642839790,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 118,
+		"ven_data": "21/04/2021",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 11751128695,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 119,
+		"ven_data": "28/02/2021",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 10887636208,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 120,
+		"ven_data": "15/07/2021",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 12898945278,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 121,
+		"ven_data": "12/05/2022",
+		"ven_valor_final": 124,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 13384354340,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 122,
+		"ven_data": "23/08/2022",
+		"ven_valor_final": 121,
+		"ven_valor_icms_total": 63,
+		"ven_cpf_comprador": 11403162963,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 123,
+		"ven_data": "06/08/2022",
+		"ven_valor_final": 127,
+		"ven_valor_icms_total": 47,
+		"ven_cpf_comprador": 15962741466,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 124,
+		"ven_data": "27/09/2021",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 31,
+		"ven_cpf_comprador": 15616138645,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 125,
+		"ven_data": "12/06/2022",
+		"ven_valor_final": 140,
+		"ven_valor_icms_total": 35,
+		"ven_cpf_comprador": 13564216726,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 126,
+		"ven_data": "07/05/2021",
+		"ven_valor_final": 146,
+		"ven_valor_icms_total": 55,
+		"ven_cpf_comprador": 13745099628,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 127,
+		"ven_data": "13/11/2021",
+		"ven_valor_final": 106,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 18677518295,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 128,
+		"ven_data": "08/01/2022",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 19550224055,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 129,
+		"ven_data": "04/04/2022",
+		"ven_valor_final": 117,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 11542156878,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 130,
+		"ven_data": "20/12/2021",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 34,
+		"ven_cpf_comprador": 17607513938,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 131,
+		"ven_data": "15/06/2022",
+		"ven_valor_final": 132,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 14264421374,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 132,
+		"ven_data": "13/03/2021",
+		"ven_valor_final": 108,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 15556685574,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 133,
+		"ven_data": "15/08/2022",
+		"ven_valor_final": 141,
+		"ven_valor_icms_total": 29,
+		"ven_cpf_comprador": 13323858470,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 134,
+		"ven_data": "21/09/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 11614182564,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 135,
+		"ven_data": "26/01/2022",
+		"ven_valor_final": 124,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 11425533787,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 136,
+		"ven_data": "28/06/2022",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 35,
+		"ven_cpf_comprador": 18038463042,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 137,
+		"ven_data": "11/07/2021",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 62,
+		"ven_cpf_comprador": 11326289765,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 138,
+		"ven_data": "30/09/2021",
+		"ven_valor_final": 128,
+		"ven_valor_icms_total": 39,
+		"ven_cpf_comprador": 12230834710,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 139,
+		"ven_data": "28/12/2021",
+		"ven_valor_final": 146,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 17327803656,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 140,
+		"ven_data": "09/06/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 34,
+		"ven_cpf_comprador": 17518957389,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 141,
+		"ven_data": "18/06/2022",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 28,
+		"ven_cpf_comprador": 15711861038,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 142,
+		"ven_data": "16/08/2021",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 38,
+		"ven_cpf_comprador": 14233007578,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 143,
+		"ven_data": "03/11/2021",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 55,
+		"ven_cpf_comprador": 18529560395,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 144,
+		"ven_data": "09/10/2022",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 17491347461,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 145,
+		"ven_data": "22/09/2021",
+		"ven_valor_final": 101,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 15368813245,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 146,
+		"ven_data": "27/05/2021",
+		"ven_valor_final": 150,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 17033675167,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 147,
+		"ven_data": "19/06/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 28,
+		"ven_cpf_comprador": 10151285638,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 148,
+		"ven_data": "14/01/2022",
+		"ven_valor_final": 117,
+		"ven_valor_icms_total": 34,
+		"ven_cpf_comprador": 16255352411,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 149,
+		"ven_data": "03/04/2021",
+		"ven_valor_final": 122,
+		"ven_valor_icms_total": 63,
+		"ven_cpf_comprador": 17847332512,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 150,
+		"ven_data": "02/08/2022",
+		"ven_valor_final": 103,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 16782735530,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 151,
+		"ven_data": "28/05/2022",
+		"ven_valor_final": 145,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 17856458714,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 152,
+		"ven_data": "13/09/2022",
+		"ven_valor_final": 130,
+		"ven_valor_icms_total": 38,
+		"ven_cpf_comprador": 15486646348,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 153,
+		"ven_data": "21/05/2021",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 16876384053,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 154,
+		"ven_data": "08/09/2021",
+		"ven_valor_final": 123,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 18264715307,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 155,
+		"ven_data": "06/08/2021",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 16984147117,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 156,
+		"ven_data": "19/03/2022",
+		"ven_valor_final": 140,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 18837882074,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 157,
+		"ven_data": "12/03/2022",
+		"ven_valor_final": 106,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 11776362667,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 158,
+		"ven_data": "19/01/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 15560267940,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 159,
+		"ven_data": "01/10/2022",
+		"ven_valor_final": 129,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 18154228334,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 160,
+		"ven_data": "29/03/2022",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 12915841558,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 161,
+		"ven_data": "25/12/2021",
+		"ven_valor_final": 142,
+		"ven_valor_icms_total": 55,
+		"ven_cpf_comprador": 11132557566,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 162,
+		"ven_data": "28/09/2022",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 14887449238,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 163,
+		"ven_data": "23/04/2021",
+		"ven_valor_final": 123,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 10382172423,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 164,
+		"ven_data": "20/05/2022",
+		"ven_valor_final": 139,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 17328311191,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 165,
+		"ven_data": "19/02/2022",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 15461680664,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 166,
+		"ven_data": "31/07/2022",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 42,
+		"ven_cpf_comprador": 18662564752,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 167,
+		"ven_data": "05/02/2021",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 18471743850,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 168,
+		"ven_data": "07/03/2021",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 15377156575,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 169,
+		"ven_data": "23/04/2021",
+		"ven_valor_final": 128,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 14264885438,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 170,
+		"ven_data": "12/08/2021",
+		"ven_valor_final": 145,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 16538674284,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 171,
+		"ven_data": "21/01/2022",
+		"ven_valor_final": 142,
+		"ven_valor_icms_total": 53,
+		"ven_cpf_comprador": 15357827125,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 172,
+		"ven_data": "25/05/2021",
+		"ven_valor_final": 117,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 11448137142,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 173,
+		"ven_data": "05/10/2022",
+		"ven_valor_final": 102,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 15276428017,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 174,
+		"ven_data": "03/04/2022",
+		"ven_valor_final": 140,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 15372622669,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 175,
+		"ven_data": "28/12/2020",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 31,
+		"ven_cpf_comprador": 18633335266,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 176,
+		"ven_data": "25/10/2022",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 60,
+		"ven_cpf_comprador": 13233747568,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 177,
+		"ven_data": "12/02/2022",
+		"ven_valor_final": 123,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 18411740558,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 178,
+		"ven_data": "20/03/2022",
+		"ven_valor_final": 113,
+		"ven_valor_icms_total": 25,
+		"ven_cpf_comprador": 12442674862,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 179,
+		"ven_data": "26/04/2022",
+		"ven_valor_final": 145,
+		"ven_valor_icms_total": 42,
+		"ven_cpf_comprador": 15128218459,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 180,
+		"ven_data": "29/07/2022",
+		"ven_valor_final": 103,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 12271467086,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 181,
+		"ven_data": "03/12/2021",
+		"ven_valor_final": 133,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 12730821362,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 182,
+		"ven_data": "02/06/2022",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 13243609776,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 183,
+		"ven_data": "01/06/2021",
+		"ven_valor_final": 136,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 13711868672,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 184,
+		"ven_data": "05/11/2020",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 16751383812,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 185,
+		"ven_data": "14/01/2022",
+		"ven_valor_final": 106,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 11428166075,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 186,
+		"ven_data": "23/04/2022",
+		"ven_valor_final": 134,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 17671540781,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 187,
+		"ven_data": "25/09/2022",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 13776617719,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 188,
+		"ven_data": "03/05/2021",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 11088987866,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 189,
+		"ven_data": "06/09/2022",
+		"ven_valor_final": 126,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 19331212472,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 190,
+		"ven_data": "29/07/2021",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 13786545835,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 191,
+		"ven_data": "01/01/2021",
+		"ven_valor_final": 120,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 13328354930,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 192,
+		"ven_data": "08/09/2021",
+		"ven_valor_final": 122,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 13048452280,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 193,
+		"ven_data": "18/12/2021",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 17346752462,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 194,
+		"ven_data": "26/02/2021",
+		"ven_valor_final": 148,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 13665824583,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 195,
+		"ven_data": "29/10/2021",
+		"ven_valor_final": 110,
+		"ven_valor_icms_total": 35,
+		"ven_cpf_comprador": 19066783767,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 196,
+		"ven_data": "17/06/2021",
+		"ven_valor_final": 132,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 13327547593,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 197,
+		"ven_data": "19/10/2021",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 42,
+		"ven_cpf_comprador": 12713459216,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 198,
+		"ven_data": "20/11/2020",
+		"ven_valor_final": 105,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 11255157240,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 199,
+		"ven_data": "04/09/2022",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 11186788872,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 200,
+		"ven_data": "06/09/2022",
+		"ven_valor_final": 116,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 19791501889,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 201,
+		"ven_data": "23/09/2021",
+		"ven_valor_final": 144,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 17254586157,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 202,
+		"ven_data": "04/09/2022",
+		"ven_valor_final": 131,
+		"ven_valor_icms_total": 27,
+		"ven_cpf_comprador": 11286023536,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 203,
+		"ven_data": "22/06/2021",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 12143632197,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 204,
+		"ven_data": "19/09/2021",
+		"ven_valor_final": 119,
+		"ven_valor_icms_total": 40,
+		"ven_cpf_comprador": 18701304017,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 205,
+		"ven_data": "29/04/2022",
+		"ven_valor_final": 132,
+		"ven_valor_icms_total": 32,
+		"ven_cpf_comprador": 11157234441,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 206,
+		"ven_data": "08/02/2022",
+		"ven_valor_final": 100,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 14543598459,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 207,
+		"ven_data": "11/03/2021",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 40,
+		"ven_cpf_comprador": 15741932624,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 208,
+		"ven_data": "31/05/2021",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 29,
+		"ven_cpf_comprador": 12236532433,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 209,
+		"ven_data": "14/12/2021",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 54,
+		"ven_cpf_comprador": 12045684232,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 210,
+		"ven_data": "25/07/2022",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 26,
+		"ven_cpf_comprador": 16721136057,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 211,
+		"ven_data": "30/06/2022",
+		"ven_valor_final": 105,
+		"ven_valor_icms_total": 40,
+		"ven_cpf_comprador": 13447731772,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 212,
+		"ven_data": "31/07/2021",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 28,
+		"ven_cpf_comprador": 10878173551,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 213,
+		"ven_data": "10/08/2022",
+		"ven_valor_final": 107,
+		"ven_valor_icms_total": 63,
+		"ven_cpf_comprador": 12771243341,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 214,
+		"ven_data": "13/12/2020",
+		"ven_valor_final": 148,
+		"ven_valor_icms_total": 63,
+		"ven_cpf_comprador": 16141886897,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 1
+	},
+	{
+		"ven_id": 215,
+		"ven_data": "30/10/2020",
+		"ven_valor_final": 127,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 17754316386,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 216,
+		"ven_data": "07/05/2021",
+		"ven_valor_final": 131,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 15201226572,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 217,
+		"ven_data": "04/03/2022",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 17512731727,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 218,
+		"ven_data": "28/11/2021",
+		"ven_valor_final": 149,
+		"ven_valor_icms_total": 38,
+		"ven_cpf_comprador": 13851444759,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 219,
+		"ven_data": "26/06/2021",
+		"ven_valor_final": 126,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 17523673619,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 220,
+		"ven_data": "25/08/2022",
+		"ven_valor_final": 126,
+		"ven_valor_icms_total": 33,
+		"ven_cpf_comprador": 14736514529,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 221,
+		"ven_data": "19/04/2022",
+		"ven_valor_final": 124,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 17339168110,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 10
+	},
+	{
+		"ven_id": 222,
+		"ven_data": "24/03/2022",
+		"ven_valor_final": 134,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 12538528171,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 223,
+		"ven_data": "04/01/2022",
+		"ven_valor_final": 113,
+		"ven_valor_icms_total": 62,
+		"ven_cpf_comprador": 18178943564,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 224,
+		"ven_data": "10/09/2021",
+		"ven_valor_final": 118,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 17204384487,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 225,
+		"ven_data": "15/09/2022",
+		"ven_valor_final": 114,
+		"ven_valor_icms_total": 31,
+		"ven_cpf_comprador": 15485141328,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 226,
+		"ven_data": "20/04/2021",
+		"ven_valor_final": 139,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 11563839553,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 227,
+		"ven_data": "23/12/2020",
+		"ven_valor_final": 143,
+		"ven_valor_icms_total": 46,
+		"ven_cpf_comprador": 18636386783,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 228,
+		"ven_data": "28/08/2021",
+		"ven_valor_final": 129,
+		"ven_valor_icms_total": 45,
+		"ven_cpf_comprador": 14271882487,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 6
+	},
+	{
+		"ven_id": 229,
+		"ven_data": "30/09/2021",
+		"ven_valor_final": 133,
+		"ven_valor_icms_total": 49,
+		"ven_cpf_comprador": 17449664719,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 4
+	},
+	{
+		"ven_id": 230,
+		"ven_data": "07/02/2022",
+		"ven_valor_final": 100,
+		"ven_valor_icms_total": 44,
+		"ven_cpf_comprador": 11135514336,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 3
+	},
+	{
+		"ven_id": 231,
+		"ven_data": "30/01/2022",
+		"ven_valor_final": 149,
+		"ven_valor_icms_total": 47,
+		"ven_cpf_comprador": 14784855152,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 232,
+		"ven_data": "02/04/2021",
+		"ven_valor_final": 133,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 10165623524,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 233,
+		"ven_data": "26/09/2021",
+		"ven_valor_final": 109,
+		"ven_valor_icms_total": 51,
+		"ven_cpf_comprador": 11742782132,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 234,
+		"ven_data": "25/06/2022",
+		"ven_valor_final": 146,
+		"ven_valor_icms_total": 36,
+		"ven_cpf_comprador": 17257133643,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 235,
+		"ven_data": "02/10/2021",
+		"ven_valor_final": 113,
+		"ven_valor_icms_total": 64,
+		"ven_cpf_comprador": 12185448339,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 236,
+		"ven_data": "16/03/2022",
+		"ven_valor_final": 139,
+		"ven_valor_icms_total": 61,
+		"ven_cpf_comprador": 10026811699,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 237,
+		"ven_data": "06/02/2022",
+		"ven_valor_final": 104,
+		"ven_valor_icms_total": 43,
+		"ven_cpf_comprador": 10754176777,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 238,
+		"ven_data": "13/08/2021",
+		"ven_valor_final": 122,
+		"ven_valor_icms_total": 51,
+		"ven_cpf_comprador": 10861746382,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 239,
+		"ven_data": "30/06/2021",
+		"ven_valor_final": 125,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 15441040133,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 240,
+		"ven_data": "05/11/2021",
+		"ven_valor_final": 126,
+		"ven_valor_icms_total": 59,
+		"ven_cpf_comprador": 12513420167,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 241,
+		"ven_data": "01/11/2020",
+		"ven_valor_final": 111,
+		"ven_valor_icms_total": 48,
+		"ven_cpf_comprador": 16717817073,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 242,
+		"ven_data": "28/09/2022",
+		"ven_valor_final": 106,
+		"ven_valor_icms_total": 55,
+		"ven_cpf_comprador": 17745286498,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 243,
+		"ven_data": "05/08/2022",
+		"ven_valor_final": 129,
+		"ven_valor_icms_total": 47,
+		"ven_cpf_comprador": 19094325631,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 5
+	},
+	{
+		"ven_id": 244,
+		"ven_data": "05/03/2022",
+		"ven_valor_final": 110,
+		"ven_valor_icms_total": 47,
+		"ven_cpf_comprador": 12172560145,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 245,
+		"ven_data": "24/10/2021",
+		"ven_valor_final": 103,
+		"ven_valor_icms_total": 57,
+		"ven_cpf_comprador": 16765456051,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 2
+	},
+	{
+		"ven_id": 246,
+		"ven_data": "15/05/2021",
+		"ven_valor_final": 140,
+		"ven_valor_icms_total": 31,
+		"ven_cpf_comprador": 18353346621,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 247,
+		"ven_data": "31/08/2022",
+		"ven_valor_final": 115,
+		"ven_valor_icms_total": 37,
+		"ven_cpf_comprador": 12734615133,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 9
+	},
+	{
+		"ven_id": 248,
+		"ven_data": "18/05/2022",
+		"ven_valor_final": 135,
+		"ven_valor_icms_total": 58,
+		"ven_cpf_comprador": 10826411511,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 7
+	},
+	{
+		"ven_id": 249,
+		"ven_data": "04/11/2020",
+		"ven_valor_final": 133,
+		"ven_valor_icms_total": 39,
+		"ven_cpf_comprador": 12605155354,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	},
+	{
+		"ven_id": 250,
+		"ven_data": "28/05/2022",
+		"ven_valor_final": 126,
+		"ven_valor_icms_total": 52,
+		"ven_cpf_comprador": 12834398416,
+		"ven_cnpj_comprador": "",
+		"funcionarios_fun_id": 8
+	}
+]

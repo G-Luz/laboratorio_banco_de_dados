@@ -1,0 +1,1502 @@
+[
+	{
+		"lvr_id": 1,
+		"lvr_preco_capa": 12,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "sapien, gravida"
+	},
+	{
+		"lvr_id": 2,
+		"lvr_preco_capa": 7,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "mauris, rhoncus"
+	},
+	{
+		"lvr_id": 3,
+		"lvr_preco_capa": 33,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "tortor nibh"
+	},
+	{
+		"lvr_id": 4,
+		"lvr_preco_capa": 57,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "posuere cubilia"
+	},
+	{
+		"lvr_id": 5,
+		"lvr_preco_capa": 39,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "enim. Etiam"
+	},
+	{
+		"lvr_id": 6,
+		"lvr_preco_capa": 13,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "id nunc"
+	},
+	{
+		"lvr_id": 7,
+		"lvr_preco_capa": 13,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "euismod et,"
+	},
+	{
+		"lvr_id": 8,
+		"lvr_preco_capa": 22,
+		"lvr_preco_venda": 74,
+		"lvr_nome": "dolor sit"
+	},
+	{
+		"lvr_id": 9,
+		"lvr_preco_capa": 32,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "Proin non"
+	},
+	{
+		"lvr_id": 10,
+		"lvr_preco_capa": 7,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "cursus a,"
+	},
+	{
+		"lvr_id": 11,
+		"lvr_preco_capa": 25,
+		"lvr_preco_venda": 70,
+		"lvr_nome": "litora torquent"
+	},
+	{
+		"lvr_id": 12,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "Pellentesque ut"
+	},
+	{
+		"lvr_id": 13,
+		"lvr_preco_capa": 8,
+		"lvr_preco_venda": 73,
+		"lvr_nome": "lorem eu"
+	},
+	{
+		"lvr_id": 14,
+		"lvr_preco_capa": 24,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "convallis erat,"
+	},
+	{
+		"lvr_id": 15,
+		"lvr_preco_capa": 63,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "ante, iaculis"
+	},
+	{
+		"lvr_id": 16,
+		"lvr_preco_capa": 54,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "Morbi quis"
+	},
+	{
+		"lvr_id": 17,
+		"lvr_preco_capa": 53,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "vitae purus"
+	},
+	{
+		"lvr_id": 18,
+		"lvr_preco_capa": 34,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "eget metus."
+	},
+	{
+		"lvr_id": 19,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 95,
+		"lvr_nome": "montes, nascetur"
+	},
+	{
+		"lvr_id": 20,
+		"lvr_preco_capa": 18,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "elementum purus,"
+	},
+	{
+		"lvr_id": 21,
+		"lvr_preco_capa": 14,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "scelerisque neque"
+	},
+	{
+		"lvr_id": 22,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "scelerisque, lorem"
+	},
+	{
+		"lvr_id": 23,
+		"lvr_preco_capa": 57,
+		"lvr_preco_venda": 70,
+		"lvr_nome": "egestas. Sed"
+	},
+	{
+		"lvr_id": 24,
+		"lvr_preco_capa": 40,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "scelerisque scelerisque"
+	},
+	{
+		"lvr_id": 25,
+		"lvr_preco_capa": 6,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "luctus aliquet"
+	},
+	{
+		"lvr_id": 26,
+		"lvr_preco_capa": 45,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "taciti sociosqu"
+	},
+	{
+		"lvr_id": 27,
+		"lvr_preco_capa": 16,
+		"lvr_preco_venda": 70,
+		"lvr_nome": "et ultrices"
+	},
+	{
+		"lvr_id": 28,
+		"lvr_preco_capa": 39,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "ac arcu."
+	},
+	{
+		"lvr_id": 29,
+		"lvr_preco_capa": 61,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "montes, nascetur"
+	},
+	{
+		"lvr_id": 30,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "Duis risus"
+	},
+	{
+		"lvr_id": 31,
+		"lvr_preco_capa": 36,
+		"lvr_preco_venda": 73,
+		"lvr_nome": "Integer id"
+	},
+	{
+		"lvr_id": 32,
+		"lvr_preco_capa": 32,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "Phasellus vitae"
+	},
+	{
+		"lvr_id": 33,
+		"lvr_preco_capa": 32,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "amet luctus"
+	},
+	{
+		"lvr_id": 34,
+		"lvr_preco_capa": 13,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "lacus. Aliquam"
+	},
+	{
+		"lvr_id": 35,
+		"lvr_preco_capa": 3,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "Etiam vestibulum"
+	},
+	{
+		"lvr_id": 36,
+		"lvr_preco_capa": 51,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "Fusce feugiat."
+	},
+	{
+		"lvr_id": 37,
+		"lvr_preco_capa": 51,
+		"lvr_preco_venda": 84,
+		"lvr_nome": "vel pede"
+	},
+	{
+		"lvr_id": 38,
+		"lvr_preco_capa": 3,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "condimentum. Donec"
+	},
+	{
+		"lvr_id": 39,
+		"lvr_preco_capa": 18,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "vulputate dui,"
+	},
+	{
+		"lvr_id": 40,
+		"lvr_preco_capa": 3,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "Aliquam adipiscing"
+	},
+	{
+		"lvr_id": 41,
+		"lvr_preco_capa": 35,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "Phasellus at"
+	},
+	{
+		"lvr_id": 42,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "lacus. Aliquam"
+	},
+	{
+		"lvr_id": 43,
+		"lvr_preco_capa": 42,
+		"lvr_preco_venda": 84,
+		"lvr_nome": "pellentesque a,"
+	},
+	{
+		"lvr_id": 44,
+		"lvr_preco_capa": 25,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "Duis risus"
+	},
+	{
+		"lvr_id": 45,
+		"lvr_preco_capa": 7,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "odio a"
+	},
+	{
+		"lvr_id": 46,
+		"lvr_preco_capa": 1,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "dapibus quam"
+	},
+	{
+		"lvr_id": 47,
+		"lvr_preco_capa": 33,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "Vivamus sit"
+	},
+	{
+		"lvr_id": 48,
+		"lvr_preco_capa": 6,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "vel lectus."
+	},
+	{
+		"lvr_id": 49,
+		"lvr_preco_capa": 20,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "nisi a"
+	},
+	{
+		"lvr_id": 50,
+		"lvr_preco_capa": 57,
+		"lvr_preco_venda": 84,
+		"lvr_nome": "amet ante."
+	},
+	{
+		"lvr_id": 51,
+		"lvr_preco_capa": 48,
+		"lvr_preco_venda": 73,
+		"lvr_nome": "Fusce feugiat."
+	},
+	{
+		"lvr_id": 52,
+		"lvr_preco_capa": 14,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "Sed eu"
+	},
+	{
+		"lvr_id": 53,
+		"lvr_preco_capa": 66,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "vitae erat"
+	},
+	{
+		"lvr_id": 54,
+		"lvr_preco_capa": 46,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "Nullam vitae"
+	},
+	{
+		"lvr_id": 55,
+		"lvr_preco_capa": 18,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "tempor bibendum."
+	},
+	{
+		"lvr_id": 56,
+		"lvr_preco_capa": 58,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "ac metus"
+	},
+	{
+		"lvr_id": 57,
+		"lvr_preco_capa": 53,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "Proin eget"
+	},
+	{
+		"lvr_id": 58,
+		"lvr_preco_capa": 48,
+		"lvr_preco_venda": 77,
+		"lvr_nome": "ac mattis"
+	},
+	{
+		"lvr_id": 59,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "et magnis"
+	},
+	{
+		"lvr_id": 60,
+		"lvr_preco_capa": 55,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "Vivamus molestie"
+	},
+	{
+		"lvr_id": 61,
+		"lvr_preco_capa": 39,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "Duis risus"
+	},
+	{
+		"lvr_id": 62,
+		"lvr_preco_capa": 63,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "ac sem"
+	},
+	{
+		"lvr_id": 63,
+		"lvr_preco_capa": 41,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "Nam tempor"
+	},
+	{
+		"lvr_id": 64,
+		"lvr_preco_capa": 26,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "commodo ipsum."
+	},
+	{
+		"lvr_id": 65,
+		"lvr_preco_capa": 23,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "ante. Vivamus"
+	},
+	{
+		"lvr_id": 66,
+		"lvr_preco_capa": 53,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "Donec non"
+	},
+	{
+		"lvr_id": 67,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "pellentesque massa"
+	},
+	{
+		"lvr_id": 68,
+		"lvr_preco_capa": 30,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "tincidunt vehicula"
+	},
+	{
+		"lvr_id": 69,
+		"lvr_preco_capa": 51,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "est, mollis"
+	},
+	{
+		"lvr_id": 70,
+		"lvr_preco_capa": 43,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "dolor sit"
+	},
+	{
+		"lvr_id": 71,
+		"lvr_preco_capa": 3,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "lobortis risus."
+	},
+	{
+		"lvr_id": 72,
+		"lvr_preco_capa": 18,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "ultrices a,"
+	},
+	{
+		"lvr_id": 73,
+		"lvr_preco_capa": 55,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "neque pellentesque"
+	},
+	{
+		"lvr_id": 74,
+		"lvr_preco_capa": 10,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "at, libero."
+	},
+	{
+		"lvr_id": 75,
+		"lvr_preco_capa": 39,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "erat. Etiam"
+	},
+	{
+		"lvr_id": 76,
+		"lvr_preco_capa": 67,
+		"lvr_preco_venda": 100,
+		"lvr_nome": "lectus. Nullam"
+	},
+	{
+		"lvr_id": 77,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "eu, ligula."
+	},
+	{
+		"lvr_id": 78,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "aptent taciti"
+	},
+	{
+		"lvr_id": 79,
+		"lvr_preco_capa": 4,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "tincidunt aliquam"
+	},
+	{
+		"lvr_id": 80,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "magna a"
+	},
+	{
+		"lvr_id": 81,
+		"lvr_preco_capa": 18,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "nec quam."
+	},
+	{
+		"lvr_id": 82,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "consectetuer mauris"
+	},
+	{
+		"lvr_id": 83,
+		"lvr_preco_capa": 44,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "eros. Nam"
+	},
+	{
+		"lvr_id": 84,
+		"lvr_preco_capa": 4,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "semper tellus"
+	},
+	{
+		"lvr_id": 85,
+		"lvr_preco_capa": 34,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "urna. Nunc"
+	},
+	{
+		"lvr_id": 86,
+		"lvr_preco_capa": 38,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "Ut sagittis"
+	},
+	{
+		"lvr_id": 87,
+		"lvr_preco_capa": 51,
+		"lvr_preco_venda": 79,
+		"lvr_nome": "Phasellus dapibus"
+	},
+	{
+		"lvr_id": 88,
+		"lvr_preco_capa": 14,
+		"lvr_preco_venda": 74,
+		"lvr_nome": "sollicitudin a,"
+	},
+	{
+		"lvr_id": 89,
+		"lvr_preco_capa": 25,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "pede. Nunc"
+	},
+	{
+		"lvr_id": 90,
+		"lvr_preco_capa": 12,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "Ut tincidunt"
+	},
+	{
+		"lvr_id": 91,
+		"lvr_preco_capa": 32,
+		"lvr_preco_venda": 79,
+		"lvr_nome": "mauris. Integer"
+	},
+	{
+		"lvr_id": 92,
+		"lvr_preco_capa": 15,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "felis. Donec"
+	},
+	{
+		"lvr_id": 93,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "risus a"
+	},
+	{
+		"lvr_id": 94,
+		"lvr_preco_capa": 27,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "ornare. Fusce"
+	},
+	{
+		"lvr_id": 95,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "hendrerit neque."
+	},
+	{
+		"lvr_id": 96,
+		"lvr_preco_capa": 68,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "augue. Sed"
+	},
+	{
+		"lvr_id": 97,
+		"lvr_preco_capa": 8,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "id, mollis"
+	},
+	{
+		"lvr_id": 98,
+		"lvr_preco_capa": 15,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "lobortis, nisi"
+	},
+	{
+		"lvr_id": 99,
+		"lvr_preco_capa": 26,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "risus. In"
+	},
+	{
+		"lvr_id": 100,
+		"lvr_preco_capa": 63,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "in consectetuer"
+	},
+	{
+		"lvr_id": 101,
+		"lvr_preco_capa": 59,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "montes, nascetur"
+	},
+	{
+		"lvr_id": 102,
+		"lvr_preco_capa": 58,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "Ut nec"
+	},
+	{
+		"lvr_id": 103,
+		"lvr_preco_capa": 8,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "aliquet libero."
+	},
+	{
+		"lvr_id": 104,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "commodo at,"
+	},
+	{
+		"lvr_id": 105,
+		"lvr_preco_capa": 9,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "neque vitae"
+	},
+	{
+		"lvr_id": 106,
+		"lvr_preco_capa": 13,
+		"lvr_preco_venda": 79,
+		"lvr_nome": "erat. Vivamus"
+	},
+	{
+		"lvr_id": 107,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "Cras eu"
+	},
+	{
+		"lvr_id": 108,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "augue. Sed"
+	},
+	{
+		"lvr_id": 109,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "ornare, libero"
+	},
+	{
+		"lvr_id": 110,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 79,
+		"lvr_nome": "Nunc quis"
+	},
+	{
+		"lvr_id": 111,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "a, malesuada"
+	},
+	{
+		"lvr_id": 112,
+		"lvr_preco_capa": 10,
+		"lvr_preco_venda": 94,
+		"lvr_nome": "eleifend, nunc"
+	},
+	{
+		"lvr_id": 113,
+		"lvr_preco_capa": 16,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "neque. Morbi"
+	},
+	{
+		"lvr_id": 114,
+		"lvr_preco_capa": 20,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "lorem tristique"
+	},
+	{
+		"lvr_id": 115,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "sagittis. Nullam"
+	},
+	{
+		"lvr_id": 116,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "nulla. In"
+	},
+	{
+		"lvr_id": 117,
+		"lvr_preco_capa": 15,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "vulputate velit"
+	},
+	{
+		"lvr_id": 118,
+		"lvr_preco_capa": 49,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "Donec consectetuer"
+	},
+	{
+		"lvr_id": 119,
+		"lvr_preco_capa": 29,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "In condimentum."
+	},
+	{
+		"lvr_id": 120,
+		"lvr_preco_capa": 10,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "ut, nulla."
+	},
+	{
+		"lvr_id": 121,
+		"lvr_preco_capa": 37,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "primis in"
+	},
+	{
+		"lvr_id": 122,
+		"lvr_preco_capa": 30,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "scelerisque, lorem"
+	},
+	{
+		"lvr_id": 123,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "nascetur ridiculus"
+	},
+	{
+		"lvr_id": 124,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "convallis est,"
+	},
+	{
+		"lvr_id": 125,
+		"lvr_preco_capa": 63,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "Aliquam ultrices"
+	},
+	{
+		"lvr_id": 126,
+		"lvr_preco_capa": 15,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "posuere, enim"
+	},
+	{
+		"lvr_id": 127,
+		"lvr_preco_capa": 54,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "turpis. Aliquam"
+	},
+	{
+		"lvr_id": 128,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "vestibulum nec,"
+	},
+	{
+		"lvr_id": 129,
+		"lvr_preco_capa": 55,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "vel arcu."
+	},
+	{
+		"lvr_id": 130,
+		"lvr_preco_capa": 63,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "at, egestas"
+	},
+	{
+		"lvr_id": 131,
+		"lvr_preco_capa": 68,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "nisi nibh"
+	},
+	{
+		"lvr_id": 132,
+		"lvr_preco_capa": 21,
+		"lvr_preco_venda": 94,
+		"lvr_nome": "rutrum lorem"
+	},
+	{
+		"lvr_id": 133,
+		"lvr_preco_capa": 1,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "nonummy. Fusce"
+	},
+	{
+		"lvr_id": 134,
+		"lvr_preco_capa": 33,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "tempus scelerisque,"
+	},
+	{
+		"lvr_id": 135,
+		"lvr_preco_capa": 33,
+		"lvr_preco_venda": 84,
+		"lvr_nome": "neque tellus,"
+	},
+	{
+		"lvr_id": 136,
+		"lvr_preco_capa": 13,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "tincidunt tempus"
+	},
+	{
+		"lvr_id": 137,
+		"lvr_preco_capa": 53,
+		"lvr_preco_venda": 90,
+		"lvr_nome": "lorem ipsum"
+	},
+	{
+		"lvr_id": 138,
+		"lvr_preco_capa": 15,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "Phasellus libero"
+	},
+	{
+		"lvr_id": 139,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 94,
+		"lvr_nome": "facilisis non,"
+	},
+	{
+		"lvr_id": 140,
+		"lvr_preco_capa": 18,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "risus. In"
+	},
+	{
+		"lvr_id": 141,
+		"lvr_preco_capa": 67,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "a, magna."
+	},
+	{
+		"lvr_id": 142,
+		"lvr_preco_capa": 12,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "lorem, sit"
+	},
+	{
+		"lvr_id": 143,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "sed consequat"
+	},
+	{
+		"lvr_id": 144,
+		"lvr_preco_capa": 20,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "vitae odio"
+	},
+	{
+		"lvr_id": 145,
+		"lvr_preco_capa": 14,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "feugiat. Lorem"
+	},
+	{
+		"lvr_id": 146,
+		"lvr_preco_capa": 66,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "eu, accumsan"
+	},
+	{
+		"lvr_id": 147,
+		"lvr_preco_capa": 51,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "Donec at"
+	},
+	{
+		"lvr_id": 148,
+		"lvr_preco_capa": 53,
+		"lvr_preco_venda": 73,
+		"lvr_nome": "aptent taciti"
+	},
+	{
+		"lvr_id": 149,
+		"lvr_preco_capa": 15,
+		"lvr_preco_venda": 74,
+		"lvr_nome": "ac, feugiat"
+	},
+	{
+		"lvr_id": 150,
+		"lvr_preco_capa": 8,
+		"lvr_preco_venda": 73,
+		"lvr_nome": "aliquam eu,"
+	},
+	{
+		"lvr_id": 151,
+		"lvr_preco_capa": 53,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "faucibus leo,"
+	},
+	{
+		"lvr_id": 152,
+		"lvr_preco_capa": 26,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "eu eros."
+	},
+	{
+		"lvr_id": 153,
+		"lvr_preco_capa": 30,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "Curabitur ut"
+	},
+	{
+		"lvr_id": 154,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "Suspendisse commodo"
+	},
+	{
+		"lvr_id": 155,
+		"lvr_preco_capa": 46,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "gravida. Aliquam"
+	},
+	{
+		"lvr_id": 156,
+		"lvr_preco_capa": 61,
+		"lvr_preco_venda": 100,
+		"lvr_nome": "Nunc mauris"
+	},
+	{
+		"lvr_id": 157,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "odio sagittis"
+	},
+	{
+		"lvr_id": 158,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "tincidunt dui"
+	},
+	{
+		"lvr_id": 159,
+		"lvr_preco_capa": 24,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "eu, placerat"
+	},
+	{
+		"lvr_id": 160,
+		"lvr_preco_capa": 41,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "a, arcu."
+	},
+	{
+		"lvr_id": 161,
+		"lvr_preco_capa": 45,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "ac urna."
+	},
+	{
+		"lvr_id": 162,
+		"lvr_preco_capa": 49,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "et risus."
+	},
+	{
+		"lvr_id": 163,
+		"lvr_preco_capa": 59,
+		"lvr_preco_venda": 75,
+		"lvr_nome": "volutpat. Nulla"
+	},
+	{
+		"lvr_id": 164,
+		"lvr_preco_capa": 48,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "facilisis non,"
+	},
+	{
+		"lvr_id": 165,
+		"lvr_preco_capa": 8,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "diam dictum"
+	},
+	{
+		"lvr_id": 166,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "sem eget"
+	},
+	{
+		"lvr_id": 167,
+		"lvr_preco_capa": 1,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "vestibulum lorem,"
+	},
+	{
+		"lvr_id": 168,
+		"lvr_preco_capa": 69,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "Aliquam erat"
+	},
+	{
+		"lvr_id": 169,
+		"lvr_preco_capa": 64,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "eleifend vitae,"
+	},
+	{
+		"lvr_id": 170,
+		"lvr_preco_capa": 60,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "arcu. Vestibulum"
+	},
+	{
+		"lvr_id": 171,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 79,
+		"lvr_nome": "sit amet"
+	},
+	{
+		"lvr_id": 172,
+		"lvr_preco_capa": 46,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "penatibus et"
+	},
+	{
+		"lvr_id": 173,
+		"lvr_preco_capa": 38,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "in magna."
+	},
+	{
+		"lvr_id": 174,
+		"lvr_preco_capa": 60,
+		"lvr_preco_venda": 83,
+		"lvr_nome": "ligula. Aenean"
+	},
+	{
+		"lvr_id": 175,
+		"lvr_preco_capa": 20,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "non, luctus"
+	},
+	{
+		"lvr_id": 176,
+		"lvr_preco_capa": 56,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "non ante"
+	},
+	{
+		"lvr_id": 177,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "Vestibulum ut"
+	},
+	{
+		"lvr_id": 178,
+		"lvr_preco_capa": 64,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "blandit congue."
+	},
+	{
+		"lvr_id": 179,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "augue id"
+	},
+	{
+		"lvr_id": 180,
+		"lvr_preco_capa": 13,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "Duis sit"
+	},
+	{
+		"lvr_id": 181,
+		"lvr_preco_capa": 38,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "Phasellus vitae"
+	},
+	{
+		"lvr_id": 182,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "sem, vitae"
+	},
+	{
+		"lvr_id": 183,
+		"lvr_preco_capa": 7,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "molestie orci"
+	},
+	{
+		"lvr_id": 184,
+		"lvr_preco_capa": 67,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "mollis non,"
+	},
+	{
+		"lvr_id": 185,
+		"lvr_preco_capa": 59,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "Donec tempor,"
+	},
+	{
+		"lvr_id": 186,
+		"lvr_preco_capa": 50,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "montes, nascetur"
+	},
+	{
+		"lvr_id": 187,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "in magna."
+	},
+	{
+		"lvr_id": 188,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "Phasellus vitae"
+	},
+	{
+		"lvr_id": 189,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "feugiat metus"
+	},
+	{
+		"lvr_id": 190,
+		"lvr_preco_capa": 37,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "vulputate velit"
+	},
+	{
+		"lvr_id": 191,
+		"lvr_preco_capa": 21,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "aliquam arcu."
+	},
+	{
+		"lvr_id": 192,
+		"lvr_preco_capa": 54,
+		"lvr_preco_venda": 95,
+		"lvr_nome": "vulputate eu,"
+	},
+	{
+		"lvr_id": 193,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "mi pede,"
+	},
+	{
+		"lvr_id": 194,
+		"lvr_preco_capa": 34,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "non magna."
+	},
+	{
+		"lvr_id": 195,
+		"lvr_preco_capa": 66,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "penatibus et"
+	},
+	{
+		"lvr_id": 196,
+		"lvr_preco_capa": 27,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "Fusce diam"
+	},
+	{
+		"lvr_id": 197,
+		"lvr_preco_capa": 64,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "malesuada id,"
+	},
+	{
+		"lvr_id": 198,
+		"lvr_preco_capa": 42,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "Duis risus"
+	},
+	{
+		"lvr_id": 199,
+		"lvr_preco_capa": 6,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "mattis semper,"
+	},
+	{
+		"lvr_id": 200,
+		"lvr_preco_capa": 0,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "et netus"
+	},
+	{
+		"lvr_id": 201,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "ac arcu."
+	},
+	{
+		"lvr_id": 202,
+		"lvr_preco_capa": 22,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "diam lorem,"
+	},
+	{
+		"lvr_id": 203,
+		"lvr_preco_capa": 61,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "Donec tincidunt."
+	},
+	{
+		"lvr_id": 204,
+		"lvr_preco_capa": 67,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "lectus ante"
+	},
+	{
+		"lvr_id": 205,
+		"lvr_preco_capa": 27,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "accumsan interdum"
+	},
+	{
+		"lvr_id": 206,
+		"lvr_preco_capa": 22,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "vulputate ullamcorper"
+	},
+	{
+		"lvr_id": 207,
+		"lvr_preco_capa": 61,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "augue id"
+	},
+	{
+		"lvr_id": 208,
+		"lvr_preco_capa": 45,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "vel lectus."
+	},
+	{
+		"lvr_id": 209,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 77,
+		"lvr_nome": "nostra, per"
+	},
+	{
+		"lvr_id": 210,
+		"lvr_preco_capa": 66,
+		"lvr_preco_venda": 77,
+		"lvr_nome": "libero lacus,"
+	},
+	{
+		"lvr_id": 211,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "in magna."
+	},
+	{
+		"lvr_id": 212,
+		"lvr_preco_capa": 56,
+		"lvr_preco_venda": 70,
+		"lvr_nome": "ultrices iaculis"
+	},
+	{
+		"lvr_id": 213,
+		"lvr_preco_capa": 10,
+		"lvr_preco_venda": 89,
+		"lvr_nome": "orci luctus"
+	},
+	{
+		"lvr_id": 214,
+		"lvr_preco_capa": 43,
+		"lvr_preco_venda": 70,
+		"lvr_nome": "velit. Sed"
+	},
+	{
+		"lvr_id": 215,
+		"lvr_preco_capa": 31,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "vestibulum nec,"
+	},
+	{
+		"lvr_id": 216,
+		"lvr_preco_capa": 4,
+		"lvr_preco_venda": 92,
+		"lvr_nome": "lobortis quam"
+	},
+	{
+		"lvr_id": 217,
+		"lvr_preco_capa": 51,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "Mauris vestibulum,"
+	},
+	{
+		"lvr_id": 218,
+		"lvr_preco_capa": 1,
+		"lvr_preco_venda": 78,
+		"lvr_nome": "mus. Donec"
+	},
+	{
+		"lvr_id": 219,
+		"lvr_preco_capa": 66,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "commodo ipsum."
+	},
+	{
+		"lvr_id": 220,
+		"lvr_preco_capa": 61,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "consectetuer mauris"
+	},
+	{
+		"lvr_id": 221,
+		"lvr_preco_capa": 38,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "Duis volutpat"
+	},
+	{
+		"lvr_id": 222,
+		"lvr_preco_capa": 26,
+		"lvr_preco_venda": 91,
+		"lvr_nome": "ante lectus"
+	},
+	{
+		"lvr_id": 223,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 95,
+		"lvr_nome": "dui. Suspendisse"
+	},
+	{
+		"lvr_id": 224,
+		"lvr_preco_capa": 59,
+		"lvr_preco_venda": 87,
+		"lvr_nome": "lectus ante"
+	},
+	{
+		"lvr_id": 225,
+		"lvr_preco_capa": 40,
+		"lvr_preco_venda": 82,
+		"lvr_nome": "Proin vel"
+	},
+	{
+		"lvr_id": 226,
+		"lvr_preco_capa": 33,
+		"lvr_preco_venda": 72,
+		"lvr_nome": "Sed eget"
+	},
+	{
+		"lvr_id": 227,
+		"lvr_preco_capa": 1,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "lacus. Nulla"
+	},
+	{
+		"lvr_id": 228,
+		"lvr_preco_capa": 41,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "lobortis, nisi"
+	},
+	{
+		"lvr_id": 229,
+		"lvr_preco_capa": 9,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "et magnis"
+	},
+	{
+		"lvr_id": 230,
+		"lvr_preco_capa": 28,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "hendrerit. Donec"
+	},
+	{
+		"lvr_id": 231,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 70,
+		"lvr_nome": "sit amet"
+	},
+	{
+		"lvr_id": 232,
+		"lvr_preco_capa": 12,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "nibh enim,"
+	},
+	{
+		"lvr_id": 233,
+		"lvr_preco_capa": 60,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "nec luctus"
+	},
+	{
+		"lvr_id": 234,
+		"lvr_preco_capa": 57,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "justo nec"
+	},
+	{
+		"lvr_id": 235,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 76,
+		"lvr_nome": "id, libero."
+	},
+	{
+		"lvr_id": 236,
+		"lvr_preco_capa": 5,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "lacus. Ut"
+	},
+	{
+		"lvr_id": 237,
+		"lvr_preco_capa": 20,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "aliquet magna"
+	},
+	{
+		"lvr_id": 238,
+		"lvr_preco_capa": 6,
+		"lvr_preco_venda": 97,
+		"lvr_nome": "enim. Curabitur"
+	},
+	{
+		"lvr_id": 239,
+		"lvr_preco_capa": 11,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "tellus id"
+	},
+	{
+		"lvr_id": 240,
+		"lvr_preco_capa": 48,
+		"lvr_preco_venda": 88,
+		"lvr_nome": "odio tristique"
+	},
+	{
+		"lvr_id": 241,
+		"lvr_preco_capa": 23,
+		"lvr_preco_venda": 81,
+		"lvr_nome": "nisl. Nulla"
+	},
+	{
+		"lvr_id": 242,
+		"lvr_preco_capa": 17,
+		"lvr_preco_venda": 98,
+		"lvr_nome": "fringilla purus"
+	},
+	{
+		"lvr_id": 243,
+		"lvr_preco_capa": 41,
+		"lvr_preco_venda": 80,
+		"lvr_nome": "Donec nibh"
+	},
+	{
+		"lvr_id": 244,
+		"lvr_preco_capa": 34,
+		"lvr_preco_venda": 86,
+		"lvr_nome": "Suspendisse eleifend."
+	},
+	{
+		"lvr_id": 245,
+		"lvr_preco_capa": 16,
+		"lvr_preco_venda": 93,
+		"lvr_nome": "risus a"
+	},
+	{
+		"lvr_id": 246,
+		"lvr_preco_capa": 2,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "Suspendisse non"
+	},
+	{
+		"lvr_id": 247,
+		"lvr_preco_capa": 64,
+		"lvr_preco_venda": 85,
+		"lvr_nome": "est arcu"
+	},
+	{
+		"lvr_id": 248,
+		"lvr_preco_capa": 7,
+		"lvr_preco_venda": 99,
+		"lvr_nome": "eu turpis."
+	},
+	{
+		"lvr_id": 249,
+		"lvr_preco_capa": 3,
+		"lvr_preco_venda": 71,
+		"lvr_nome": "Duis sit"
+	},
+	{
+		"lvr_id": 250,
+		"lvr_preco_capa": 44,
+		"lvr_preco_venda": 96,
+		"lvr_nome": "Vivamus nisi."
+	}
+]

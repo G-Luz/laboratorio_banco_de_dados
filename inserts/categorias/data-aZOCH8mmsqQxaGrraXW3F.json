@@ -1,0 +1,34 @@
+[
+	{
+		"cat_id": 1,
+		"cat_nome": "FICÇÃO"
+	},
+	{
+		"cat_id": 2,
+		"cat_nome": "LITERÁRIA"
+	},
+	{
+		"cat_id": 3,
+		"cat_nome": "SUSPENSE"
+	},
+	{
+		"cat_id": 4,
+		"cat_nome": "POESIA"
+	},
+	{
+		"cat_id": 5,
+		"cat_nome": "FICÇÃO"
+	},
+	{
+		"cat_id": 6,
+		"cat_nome": "HORROR"
+	},
+	{
+		"cat_id": 7,
+		"cat_nome": "SUSPENSE"
+	},
+	{
+		"cat_id": 8,
+		"cat_nome": "HORROR"
+	}
+]

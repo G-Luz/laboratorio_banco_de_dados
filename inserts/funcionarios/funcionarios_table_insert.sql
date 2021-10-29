@@ -1,0 +1,10 @@
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (1,'Frajuca Alvarenga','Auxiliar Administrativo',045671444871744);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (2,'Lola Marmou','Auxiliar Administrativo',460561494838612);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (3,'Vicente Frajuca','Auxiliar Administrativo',733268750791773);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (4,'Cidreira Vicente','Recepcionista',311622124832981);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (5,'Pêcego Canário','Recepcionista',637214861527455);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (6,'Pádua Cidreira','Recepcionista',749539471847096);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (7,'Canário Sahara','Recepcionista',423708102725108);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (8,'Cidreira Vicente','Recepcionista',741451847478365);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (9,'Alvarenga Élson','Recepcionista',984119243135278);
+INSERT INTO FUNCIONARIOS(fun_id,fun_nome,fun_cargo,fun_matricula) VALUES (10,'Pádua Cidreira','Auxiliar Administrativo',167314655348141);

@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="DC080BC2-EF8B-70B5-F672-9757C36DDA49" containerWithKeyObject="FCFD62B1-7FD9-8717-3D4E-0C3FA84F99AB" localFKIndex="0B2A5BA6-AA73-0F42-FD58-E5D198933AA0" name="STG_FK_VEN">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:31:06 UTC</createdTime>
+<generatorID>2A6DEBF0-FB50-C685-6F71-16445472D3FE</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<referredTableLongName>Vendas</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>F8596CC1-7203-5CC9-87E5-B22BE7CBE560</referredTableID>
+<keyObject>E1E120B4-C4EB-8AD1-E6C3-C05F19D0DAC0</keyObject>
+<referredKeyID>E1E120B4-C4EB-8AD1-E6C3-C05F19D0DAC0</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ven_id</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<discriminatorColumn>A8514E61-DE71-185E-45B5-B1A8CB0303E0</discriminatorColumn>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

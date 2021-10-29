@@ -1,0 +1,15 @@
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (1,'Weisl Elhan');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (2,'Zuzuy Tocis');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (3,'Rulil Zuzuy');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (4,'Viveula Onerr');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (5,'Tekus Pieorho');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (6,'Tocis Becio');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (7,'Xinol NaxeaI');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (8,'Tekus Pieorho');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (9,'Mecauma Nial');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (10,'Xinol NaxeaI');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (11,'Weisl Elhan');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (12,'Varizer Mecauma');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (13,'Tinoco Dali');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (14,'Zuyvi Weisl');
+INSERT INTO AUTORES(aut_id,aut_nome) VALUES (15,'Zulisc Tociso');

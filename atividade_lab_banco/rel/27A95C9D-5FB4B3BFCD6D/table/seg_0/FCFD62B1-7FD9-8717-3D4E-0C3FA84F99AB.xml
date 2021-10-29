@@ -1,0 +1,211 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="FCFD62B1-7FD9-8717-3D4E-0C3FA84F99AB" name="STAGE_TABLE">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:14:57 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<ordsAlias>table_17</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="stg_fun_nome" id="A1FC8A5C-0B22-15A8-FB27-CF0B8AC35C75">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_fun_cargo" id="AEDFE1C4-5E67-0ED7-2BE9-BF2523822D40">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_lvr_nome" id="A793D3A0-5841-697A-18AA-BFCB83FA51A8">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_cat_id" id="73371FC5-4C8C-405D-5414-5A025EDCC82D">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_cat_nome" id="DAE9A726-9B2B-6212-0722-518F13394741">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_aut_id" id="267C8758-394D-E8CA-E4AB-C07F17B2F5B8">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_aut_nome" id="1A52D1CA-8FF8-135B-CFC1-BF5EA559803C">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<ownDataTypeParameters>255,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_ven_data" id="EFA02B44-A7F7-1AA2-5D17-C8A28AEBF1FB">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_ven_valor_final" id="9A83F0DE-711A-8A1C-51A5-3B45A094846E">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT022</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_ven_fun" id="4AE24238-6B7A-54CC-1653-C249DB6787C0">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_qtd_lpc" id="3ED10C2D-B024-CB26-2E62-EE32E914D78B">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 15:19:35 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,6,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="stg_ven_id" id="900C54C4-A1BA-85E3-64C4-D4119B31CAB5">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:31:06 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="DC080BC2-EF8B-70B5-F672-9757C36DDA49" referredColumn="A8514E61-DE71-185E-45B5-B1A8CB0303E0"/>
+</associations>
+</Column>
+<Column name="stg_lvr_id" id="461F0392-B606-9C9D-4839-BB1C4995961F">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:36:58 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="5C0514D4-0308-FBA8-05B2-46399E5FB4B8" referredColumn="6930C2AE-8334-F2BD-0704-A175CC530451"/>
+</associations>
+</Column>
+<Column name="stg_fun_id" id="0CAF0B09-D3B7-431D-69F2-2CD1921E5FB6">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:37:25 UTC</createdTime>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="812B33C9-9907-D696-D6C6-16CD71A59768" referredColumn="67CE529F-1E4D-CBA5-BB07-FB59ED3DB511"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0B2A5BA6-AA73-0F42-FD58-E5D198933AA0" name="STG_FK_VEN">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:31:06 UTC</createdTime>
+<generatorID>2A6DEBF0-FB50-C685-6F71-16445472D3FE</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="900C54C4-A1BA-85E3-64C4-D4119B31CAB5"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="12ED6B6B-19DE-305C-9DAC-ABBC0462576A" name="STG_FK_LVR">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:36:58 UTC</createdTime>
+<generatorID>747C6088-5BFE-B786-F650-79BE84DFAA86</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="461F0392-B606-9C9D-4839-BB1C4995961F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="276DC92E-B20A-7E00-C9FB-3BA7F725A20B" name="STG_FK_FUN">
+<createdBy>root</createdBy>
+<createdTime>2021-10-29 16:37:25 UTC</createdTime>
+<generatorID>5392B233-7CA4-78D5-0EB5-8EDA7E607EAD</generatorID>
+<ownerDesignName>atividade_lab_banco</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0CAF0B09-D3B7-431D-69F2-2CD1921E5FB6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

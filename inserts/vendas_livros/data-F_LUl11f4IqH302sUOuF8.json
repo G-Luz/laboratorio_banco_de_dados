@@ -1,0 +1,1252 @@
+[
+	{
+		"vlv_lvr_id": 221,
+		"vlv_id_ven": 98,
+		"vlv_ven_valor_icms_unitario": 72
+	},
+	{
+		"vlv_lvr_id": 178,
+		"vlv_id_ven": 55,
+		"vlv_ven_valor_icms_unitario": 62
+	},
+	{
+		"vlv_lvr_id": 215,
+		"vlv_id_ven": 179,
+		"vlv_ven_valor_icms_unitario": 55
+	},
+	{
+		"vlv_lvr_id": 243,
+		"vlv_id_ven": 239,
+		"vlv_ven_valor_icms_unitario": 44
+	},
+	{
+		"vlv_lvr_id": 184,
+		"vlv_id_ven": 14,
+		"vlv_ven_valor_icms_unitario": 43
+	},
+	{
+		"vlv_lvr_id": 106,
+		"vlv_id_ven": 214,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 28,
+		"vlv_id_ven": 190,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 242,
+		"vlv_id_ven": 214,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 95,
+		"vlv_id_ven": 12,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 149,
+		"vlv_id_ven": 76,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 50,
+		"vlv_id_ven": 124,
+		"vlv_ven_valor_icms_unitario": 33
+	},
+	{
+		"vlv_lvr_id": 3,
+		"vlv_id_ven": 18,
+		"vlv_ven_valor_icms_unitario": 64
+	},
+	{
+		"vlv_lvr_id": 144,
+		"vlv_id_ven": 117,
+		"vlv_ven_valor_icms_unitario": 63
+	},
+	{
+		"vlv_lvr_id": 13,
+		"vlv_id_ven": 75,
+		"vlv_ven_valor_icms_unitario": 35
+	},
+	{
+		"vlv_lvr_id": 183,
+		"vlv_id_ven": 238,
+		"vlv_ven_valor_icms_unitario": 35
+	},
+	{
+		"vlv_lvr_id": 9,
+		"vlv_id_ven": 78,
+		"vlv_ven_valor_icms_unitario": 33
+	},
+	{
+		"vlv_lvr_id": 140,
+		"vlv_id_ven": 138,
+		"vlv_ven_valor_icms_unitario": 27
+	},
+	{
+		"vlv_lvr_id": 190,
+		"vlv_id_ven": 119,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 95,
+		"vlv_id_ven": 114,
+		"vlv_ven_valor_icms_unitario": 47
+	},
+	{
+		"vlv_lvr_id": 28,
+		"vlv_id_ven": 224,
+		"vlv_ven_valor_icms_unitario": 63
+	},
+	{
+		"vlv_lvr_id": 73,
+		"vlv_id_ven": 72,
+		"vlv_ven_valor_icms_unitario": 46
+	},
+	{
+		"vlv_lvr_id": 130,
+		"vlv_id_ven": 182,
+		"vlv_ven_valor_icms_unitario": 65
+	},
+	{
+		"vlv_lvr_id": 98,
+		"vlv_id_ven": 110,
+		"vlv_ven_valor_icms_unitario": 35
+	},
+	{
+		"vlv_lvr_id": 130,
+		"vlv_id_ven": 67,
+		"vlv_ven_valor_icms_unitario": 37
+	},
+	{
+		"vlv_lvr_id": 195,
+		"vlv_id_ven": 63,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 154,
+		"vlv_id_ven": 225,
+		"vlv_ven_valor_icms_unitario": 49
+	},
+	{
+		"vlv_lvr_id": 52,
+		"vlv_id_ven": 223,
+		"vlv_ven_valor_icms_unitario": 63
+	},
+	{
+		"vlv_lvr_id": 81,
+		"vlv_id_ven": 160,
+		"vlv_ven_valor_icms_unitario": 28
+	},
+	{
+		"vlv_lvr_id": 61,
+		"vlv_id_ven": 95,
+		"vlv_ven_valor_icms_unitario": 69
+	},
+	{
+		"vlv_lvr_id": 88,
+		"vlv_id_ven": 139,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 37,
+		"vlv_id_ven": 200,
+		"vlv_ven_valor_icms_unitario": 70
+	},
+	{
+		"vlv_lvr_id": 44,
+		"vlv_id_ven": 104,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 207,
+		"vlv_id_ven": 137,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 60,
+		"vlv_id_ven": 57,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 102,
+		"vlv_id_ven": 156,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 115,
+		"vlv_id_ven": 183,
+		"vlv_ven_valor_icms_unitario": 56
+	},
+	{
+		"vlv_lvr_id": 232,
+		"vlv_id_ven": 185,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 155,
+		"vlv_id_ven": 72,
+		"vlv_ven_valor_icms_unitario": 52
+	},
+	{
+		"vlv_lvr_id": 149,
+		"vlv_id_ven": 16,
+		"vlv_ven_valor_icms_unitario": 72
+	},
+	{
+		"vlv_lvr_id": 95,
+		"vlv_id_ven": 34,
+		"vlv_ven_valor_icms_unitario": 62
+	},
+	{
+		"vlv_lvr_id": 58,
+		"vlv_id_ven": 68,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 14,
+		"vlv_id_ven": 225,
+		"vlv_ven_valor_icms_unitario": 47
+	},
+	{
+		"vlv_lvr_id": 156,
+		"vlv_id_ven": 113,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 111,
+		"vlv_id_ven": 9,
+		"vlv_ven_valor_icms_unitario": 25
+	},
+	{
+		"vlv_lvr_id": 245,
+		"vlv_id_ven": 154,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 89,
+		"vlv_id_ven": 161,
+		"vlv_ven_valor_icms_unitario": 69
+	},
+	{
+		"vlv_lvr_id": 142,
+		"vlv_id_ven": 94,
+		"vlv_ven_valor_icms_unitario": 65
+	},
+	{
+		"vlv_lvr_id": 113,
+		"vlv_id_ven": 3,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 103,
+		"vlv_id_ven": 20,
+		"vlv_ven_valor_icms_unitario": 61
+	},
+	{
+		"vlv_lvr_id": 154,
+		"vlv_id_ven": 34,
+		"vlv_ven_valor_icms_unitario": 57
+	},
+	{
+		"vlv_lvr_id": 53,
+		"vlv_id_ven": 239,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 182,
+		"vlv_id_ven": 210,
+		"vlv_ven_valor_icms_unitario": 72
+	},
+	{
+		"vlv_lvr_id": 139,
+		"vlv_id_ven": 73,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 221,
+		"vlv_id_ven": 219,
+		"vlv_ven_valor_icms_unitario": 30
+	},
+	{
+		"vlv_lvr_id": 196,
+		"vlv_id_ven": 170,
+		"vlv_ven_valor_icms_unitario": 58
+	},
+	{
+		"vlv_lvr_id": 207,
+		"vlv_id_ven": 66,
+		"vlv_ven_valor_icms_unitario": 27
+	},
+	{
+		"vlv_lvr_id": 179,
+		"vlv_id_ven": 122,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 157,
+		"vlv_id_ven": 117,
+		"vlv_ven_valor_icms_unitario": 43
+	},
+	{
+		"vlv_lvr_id": 176,
+		"vlv_id_ven": 223,
+		"vlv_ven_valor_icms_unitario": 40
+	},
+	{
+		"vlv_lvr_id": 64,
+		"vlv_id_ven": 55,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 100,
+		"vlv_id_ven": 116,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 230,
+		"vlv_id_ven": 135,
+		"vlv_ven_valor_icms_unitario": 67
+	},
+	{
+		"vlv_lvr_id": 4,
+		"vlv_id_ven": 58,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 127,
+		"vlv_id_ven": 57,
+		"vlv_ven_valor_icms_unitario": 45
+	},
+	{
+		"vlv_lvr_id": 124,
+		"vlv_id_ven": 54,
+		"vlv_ven_valor_icms_unitario": 25
+	},
+	{
+		"vlv_lvr_id": 61,
+		"vlv_id_ven": 76,
+		"vlv_ven_valor_icms_unitario": 65
+	},
+	{
+		"vlv_lvr_id": 176,
+		"vlv_id_ven": 215,
+		"vlv_ven_valor_icms_unitario": 75
+	},
+	{
+		"vlv_lvr_id": 37,
+		"vlv_id_ven": 163,
+		"vlv_ven_valor_icms_unitario": 47
+	},
+	{
+		"vlv_lvr_id": 130,
+		"vlv_id_ven": 223,
+		"vlv_ven_valor_icms_unitario": 54
+	},
+	{
+		"vlv_lvr_id": 10,
+		"vlv_id_ven": 227,
+		"vlv_ven_valor_icms_unitario": 44
+	},
+	{
+		"vlv_lvr_id": 133,
+		"vlv_id_ven": 20,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 139,
+		"vlv_id_ven": 191,
+		"vlv_ven_valor_icms_unitario": 62
+	},
+	{
+		"vlv_lvr_id": 141,
+		"vlv_id_ven": 109,
+		"vlv_ven_valor_icms_unitario": 75
+	},
+	{
+		"vlv_lvr_id": 157,
+		"vlv_id_ven": 129,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 198,
+		"vlv_id_ven": 214,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 108,
+		"vlv_id_ven": 103,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 172,
+		"vlv_id_ven": 127,
+		"vlv_ven_valor_icms_unitario": 67
+	},
+	{
+		"vlv_lvr_id": 91,
+		"vlv_id_ven": 127,
+		"vlv_ven_valor_icms_unitario": 64
+	},
+	{
+		"vlv_lvr_id": 123,
+		"vlv_id_ven": 211,
+		"vlv_ven_valor_icms_unitario": 42
+	},
+	{
+		"vlv_lvr_id": 200,
+		"vlv_id_ven": 42,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 219,
+		"vlv_id_ven": 43,
+		"vlv_ven_valor_icms_unitario": 38
+	},
+	{
+		"vlv_lvr_id": 24,
+		"vlv_id_ven": 37,
+		"vlv_ven_valor_icms_unitario": 58
+	},
+	{
+		"vlv_lvr_id": 63,
+		"vlv_id_ven": 92,
+		"vlv_ven_valor_icms_unitario": 33
+	},
+	{
+		"vlv_lvr_id": 99,
+		"vlv_id_ven": 245,
+		"vlv_ven_valor_icms_unitario": 58
+	},
+	{
+		"vlv_lvr_id": 188,
+		"vlv_id_ven": 148,
+		"vlv_ven_valor_icms_unitario": 29
+	},
+	{
+		"vlv_lvr_id": 38,
+		"vlv_id_ven": 18,
+		"vlv_ven_valor_icms_unitario": 61
+	},
+	{
+		"vlv_lvr_id": 100,
+		"vlv_id_ven": 232,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 149,
+		"vlv_id_ven": 207,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 64,
+		"vlv_id_ven": 82,
+		"vlv_ven_valor_icms_unitario": 40
+	},
+	{
+		"vlv_lvr_id": 55,
+		"vlv_id_ven": 185,
+		"vlv_ven_valor_icms_unitario": 34
+	},
+	{
+		"vlv_lvr_id": 116,
+		"vlv_id_ven": 60,
+		"vlv_ven_valor_icms_unitario": 30
+	},
+	{
+		"vlv_lvr_id": 1,
+		"vlv_id_ven": 235,
+		"vlv_ven_valor_icms_unitario": 54
+	},
+	{
+		"vlv_lvr_id": 164,
+		"vlv_id_ven": 238,
+		"vlv_ven_valor_icms_unitario": 35
+	},
+	{
+		"vlv_lvr_id": 14,
+		"vlv_id_ven": 27,
+		"vlv_ven_valor_icms_unitario": 63
+	},
+	{
+		"vlv_lvr_id": 231,
+		"vlv_id_ven": 221,
+		"vlv_ven_valor_icms_unitario": 61
+	},
+	{
+		"vlv_lvr_id": 60,
+		"vlv_id_ven": 25,
+		"vlv_ven_valor_icms_unitario": 61
+	},
+	{
+		"vlv_lvr_id": 214,
+		"vlv_id_ven": 144,
+		"vlv_ven_valor_icms_unitario": 62
+	},
+	{
+		"vlv_lvr_id": 82,
+		"vlv_id_ven": 103,
+		"vlv_ven_valor_icms_unitario": 60
+	},
+	{
+		"vlv_lvr_id": 186,
+		"vlv_id_ven": 123,
+		"vlv_ven_valor_icms_unitario": 40
+	},
+	{
+		"vlv_lvr_id": 112,
+		"vlv_id_ven": 96,
+		"vlv_ven_valor_icms_unitario": 56
+	},
+	{
+		"vlv_lvr_id": 41,
+		"vlv_id_ven": 59,
+		"vlv_ven_valor_icms_unitario": 38
+	},
+	{
+		"vlv_lvr_id": 53,
+		"vlv_id_ven": 219,
+		"vlv_ven_valor_icms_unitario": 71
+	},
+	{
+		"vlv_lvr_id": 46,
+		"vlv_id_ven": 158,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 178,
+		"vlv_id_ven": 86,
+		"vlv_ven_valor_icms_unitario": 59
+	},
+	{
+		"vlv_lvr_id": 92,
+		"vlv_id_ven": 193,
+		"vlv_ven_valor_icms_unitario": 69
+	},
+	{
+		"vlv_lvr_id": 156,
+		"vlv_id_ven": 151,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 52,
+		"vlv_id_ven": 196,
+		"vlv_ven_valor_icms_unitario": 55
+	},
+	{
+		"vlv_lvr_id": 103,
+		"vlv_id_ven": 217,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 246,
+		"vlv_id_ven": 151,
+		"vlv_ven_valor_icms_unitario": 69
+	},
+	{
+		"vlv_lvr_id": 44,
+		"vlv_id_ven": 11,
+		"vlv_ven_valor_icms_unitario": 28
+	},
+	{
+		"vlv_lvr_id": 69,
+		"vlv_id_ven": 133,
+		"vlv_ven_valor_icms_unitario": 48
+	},
+	{
+		"vlv_lvr_id": 150,
+		"vlv_id_ven": 100,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 24,
+		"vlv_id_ven": 54,
+		"vlv_ven_valor_icms_unitario": 30
+	},
+	{
+		"vlv_lvr_id": 175,
+		"vlv_id_ven": 125,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 174,
+		"vlv_id_ven": 64,
+		"vlv_ven_valor_icms_unitario": 27
+	},
+	{
+		"vlv_lvr_id": 4,
+		"vlv_id_ven": 238,
+		"vlv_ven_valor_icms_unitario": 74
+	},
+	{
+		"vlv_lvr_id": 128,
+		"vlv_id_ven": 83,
+		"vlv_ven_valor_icms_unitario": 54
+	},
+	{
+		"vlv_lvr_id": 136,
+		"vlv_id_ven": 156,
+		"vlv_ven_valor_icms_unitario": 37
+	},
+	{
+		"vlv_lvr_id": 112,
+		"vlv_id_ven": 173,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 244,
+		"vlv_id_ven": 171,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 34,
+		"vlv_id_ven": 141,
+		"vlv_ven_valor_icms_unitario": 33
+	},
+	{
+		"vlv_lvr_id": 136,
+		"vlv_id_ven": 167,
+		"vlv_ven_valor_icms_unitario": 70
+	},
+	{
+		"vlv_lvr_id": 65,
+		"vlv_id_ven": 239,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 27,
+		"vlv_id_ven": 134,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 47,
+		"vlv_id_ven": 215,
+		"vlv_ven_valor_icms_unitario": 34
+	},
+	{
+		"vlv_lvr_id": 130,
+		"vlv_id_ven": 211,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 167,
+		"vlv_id_ven": 200,
+		"vlv_ven_valor_icms_unitario": 30
+	},
+	{
+		"vlv_lvr_id": 222,
+		"vlv_id_ven": 227,
+		"vlv_ven_valor_icms_unitario": 54
+	},
+	{
+		"vlv_lvr_id": 76,
+		"vlv_id_ven": 206,
+		"vlv_ven_valor_icms_unitario": 70
+	},
+	{
+		"vlv_lvr_id": 51,
+		"vlv_id_ven": 193,
+		"vlv_ven_valor_icms_unitario": 63
+	},
+	{
+		"vlv_lvr_id": 120,
+		"vlv_id_ven": 134,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 169,
+		"vlv_id_ven": 234,
+		"vlv_ven_valor_icms_unitario": 25
+	},
+	{
+		"vlv_lvr_id": 19,
+		"vlv_id_ven": 110,
+		"vlv_ven_valor_icms_unitario": 57
+	},
+	{
+		"vlv_lvr_id": 48,
+		"vlv_id_ven": 83,
+		"vlv_ven_valor_icms_unitario": 52
+	},
+	{
+		"vlv_lvr_id": 52,
+		"vlv_id_ven": 243,
+		"vlv_ven_valor_icms_unitario": 65
+	},
+	{
+		"vlv_lvr_id": 32,
+		"vlv_id_ven": 46,
+		"vlv_ven_valor_icms_unitario": 37
+	},
+	{
+		"vlv_lvr_id": 109,
+		"vlv_id_ven": 52,
+		"vlv_ven_valor_icms_unitario": 67
+	},
+	{
+		"vlv_lvr_id": 248,
+		"vlv_id_ven": 137,
+		"vlv_ven_valor_icms_unitario": 70
+	},
+	{
+		"vlv_lvr_id": 158,
+		"vlv_id_ven": 80,
+		"vlv_ven_valor_icms_unitario": 45
+	},
+	{
+		"vlv_lvr_id": 193,
+		"vlv_id_ven": 245,
+		"vlv_ven_valor_icms_unitario": 29
+	},
+	{
+		"vlv_lvr_id": 227,
+		"vlv_id_ven": 177,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 249,
+		"vlv_id_ven": 152,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 191,
+		"vlv_id_ven": 61,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 8,
+		"vlv_id_ven": 136,
+		"vlv_ven_valor_icms_unitario": 33
+	},
+	{
+		"vlv_lvr_id": 206,
+		"vlv_id_ven": 198,
+		"vlv_ven_valor_icms_unitario": 28
+	},
+	{
+		"vlv_lvr_id": 15,
+		"vlv_id_ven": 103,
+		"vlv_ven_valor_icms_unitario": 38
+	},
+	{
+		"vlv_lvr_id": 161,
+		"vlv_id_ven": 42,
+		"vlv_ven_valor_icms_unitario": 55
+	},
+	{
+		"vlv_lvr_id": 221,
+		"vlv_id_ven": 193,
+		"vlv_ven_valor_icms_unitario": 53
+	},
+	{
+		"vlv_lvr_id": 25,
+		"vlv_id_ven": 181,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 207,
+		"vlv_id_ven": 104,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 24,
+		"vlv_id_ven": 54,
+		"vlv_ven_valor_icms_unitario": 35
+	},
+	{
+		"vlv_lvr_id": 76,
+		"vlv_id_ven": 187,
+		"vlv_ven_valor_icms_unitario": 42
+	},
+	{
+		"vlv_lvr_id": 113,
+		"vlv_id_ven": 138,
+		"vlv_ven_valor_icms_unitario": 46
+	},
+	{
+		"vlv_lvr_id": 26,
+		"vlv_id_ven": 160,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 200,
+		"vlv_id_ven": 215,
+		"vlv_ven_valor_icms_unitario": 54
+	},
+	{
+		"vlv_lvr_id": 110,
+		"vlv_id_ven": 160,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 77,
+		"vlv_id_ven": 204,
+		"vlv_ven_valor_icms_unitario": 65
+	},
+	{
+		"vlv_lvr_id": 126,
+		"vlv_id_ven": 134,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 233,
+		"vlv_id_ven": 81,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 31,
+		"vlv_id_ven": 217,
+		"vlv_ven_valor_icms_unitario": 54
+	},
+	{
+		"vlv_lvr_id": 145,
+		"vlv_id_ven": 9,
+		"vlv_ven_valor_icms_unitario": 25
+	},
+	{
+		"vlv_lvr_id": 76,
+		"vlv_id_ven": 202,
+		"vlv_ven_valor_icms_unitario": 64
+	},
+	{
+		"vlv_lvr_id": 129,
+		"vlv_id_ven": 237,
+		"vlv_ven_valor_icms_unitario": 29
+	},
+	{
+		"vlv_lvr_id": 159,
+		"vlv_id_ven": 51,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 209,
+		"vlv_id_ven": 188,
+		"vlv_ven_valor_icms_unitario": 67
+	},
+	{
+		"vlv_lvr_id": 112,
+		"vlv_id_ven": 10,
+		"vlv_ven_valor_icms_unitario": 45
+	},
+	{
+		"vlv_lvr_id": 198,
+		"vlv_id_ven": 244,
+		"vlv_ven_valor_icms_unitario": 62
+	},
+	{
+		"vlv_lvr_id": 118,
+		"vlv_id_ven": 237,
+		"vlv_ven_valor_icms_unitario": 37
+	},
+	{
+		"vlv_lvr_id": 56,
+		"vlv_id_ven": 100,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 22,
+		"vlv_id_ven": 103,
+		"vlv_ven_valor_icms_unitario": 52
+	},
+	{
+		"vlv_lvr_id": 241,
+		"vlv_id_ven": 158,
+		"vlv_ven_valor_icms_unitario": 49
+	},
+	{
+		"vlv_lvr_id": 18,
+		"vlv_id_ven": 113,
+		"vlv_ven_valor_icms_unitario": 48
+	},
+	{
+		"vlv_lvr_id": 18,
+		"vlv_id_ven": 98,
+		"vlv_ven_valor_icms_unitario": 64
+	},
+	{
+		"vlv_lvr_id": 136,
+		"vlv_id_ven": 184,
+		"vlv_ven_valor_icms_unitario": 71
+	},
+	{
+		"vlv_lvr_id": 147,
+		"vlv_id_ven": 178,
+		"vlv_ven_valor_icms_unitario": 32
+	},
+	{
+		"vlv_lvr_id": 54,
+		"vlv_id_ven": 50,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 194,
+		"vlv_id_ven": 41,
+		"vlv_ven_valor_icms_unitario": 55
+	},
+	{
+		"vlv_lvr_id": 219,
+		"vlv_id_ven": 98,
+		"vlv_ven_valor_icms_unitario": 67
+	},
+	{
+		"vlv_lvr_id": 201,
+		"vlv_id_ven": 238,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 102,
+		"vlv_id_ven": 15,
+		"vlv_ven_valor_icms_unitario": 29
+	},
+	{
+		"vlv_lvr_id": 103,
+		"vlv_id_ven": 121,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 28,
+		"vlv_id_ven": 18,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 92,
+		"vlv_id_ven": 125,
+		"vlv_ven_valor_icms_unitario": 46
+	},
+	{
+		"vlv_lvr_id": 22,
+		"vlv_id_ven": 237,
+		"vlv_ven_valor_icms_unitario": 49
+	},
+	{
+		"vlv_lvr_id": 138,
+		"vlv_id_ven": 71,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 79,
+		"vlv_id_ven": 58,
+		"vlv_ven_valor_icms_unitario": 58
+	},
+	{
+		"vlv_lvr_id": 2,
+		"vlv_id_ven": 53,
+		"vlv_ven_valor_icms_unitario": 71
+	},
+	{
+		"vlv_lvr_id": 235,
+		"vlv_id_ven": 80,
+		"vlv_ven_valor_icms_unitario": 32
+	},
+	{
+		"vlv_lvr_id": 189,
+		"vlv_id_ven": 61,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 85,
+		"vlv_id_ven": 72,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 38,
+		"vlv_id_ven": 125,
+		"vlv_ven_valor_icms_unitario": 49
+	},
+	{
+		"vlv_lvr_id": 35,
+		"vlv_id_ven": 172,
+		"vlv_ven_valor_icms_unitario": 40
+	},
+	{
+		"vlv_lvr_id": 229,
+		"vlv_id_ven": 190,
+		"vlv_ven_valor_icms_unitario": 71
+	},
+	{
+		"vlv_lvr_id": 112,
+		"vlv_id_ven": 70,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 208,
+		"vlv_id_ven": 216,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 112,
+		"vlv_id_ven": 214,
+		"vlv_ven_valor_icms_unitario": 49
+	},
+	{
+		"vlv_lvr_id": 197,
+		"vlv_id_ven": 112,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 112,
+		"vlv_id_ven": 224,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 28,
+		"vlv_id_ven": 130,
+		"vlv_ven_valor_icms_unitario": 67
+	},
+	{
+		"vlv_lvr_id": 237,
+		"vlv_id_ven": 157,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 18,
+		"vlv_id_ven": 170,
+		"vlv_ven_valor_icms_unitario": 32
+	},
+	{
+		"vlv_lvr_id": 15,
+		"vlv_id_ven": 142,
+		"vlv_ven_valor_icms_unitario": 35
+	},
+	{
+		"vlv_lvr_id": 238,
+		"vlv_id_ven": 108,
+		"vlv_ven_valor_icms_unitario": 59
+	},
+	{
+		"vlv_lvr_id": 13,
+		"vlv_id_ven": 18,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 202,
+		"vlv_id_ven": 11,
+		"vlv_ven_valor_icms_unitario": 73
+	},
+	{
+		"vlv_lvr_id": 66,
+		"vlv_id_ven": 99,
+		"vlv_ven_valor_icms_unitario": 40
+	},
+	{
+		"vlv_lvr_id": 227,
+		"vlv_id_ven": 114,
+		"vlv_ven_valor_icms_unitario": 64
+	},
+	{
+		"vlv_lvr_id": 135,
+		"vlv_id_ven": 238,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 121,
+		"vlv_id_ven": 52,
+		"vlv_ven_valor_icms_unitario": 58
+	},
+	{
+		"vlv_lvr_id": 115,
+		"vlv_id_ven": 144,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 3,
+		"vlv_id_ven": 37,
+		"vlv_ven_valor_icms_unitario": 36
+	},
+	{
+		"vlv_lvr_id": 155,
+		"vlv_id_ven": 24,
+		"vlv_ven_valor_icms_unitario": 30
+	},
+	{
+		"vlv_lvr_id": 85,
+		"vlv_id_ven": 83,
+		"vlv_ven_valor_icms_unitario": 58
+	},
+	{
+		"vlv_lvr_id": 117,
+		"vlv_id_ven": 108,
+		"vlv_ven_valor_icms_unitario": 65
+	},
+	{
+		"vlv_lvr_id": 43,
+		"vlv_id_ven": 121,
+		"vlv_ven_valor_icms_unitario": 59
+	},
+	{
+		"vlv_lvr_id": 50,
+		"vlv_id_ven": 66,
+		"vlv_ven_valor_icms_unitario": 51
+	},
+	{
+		"vlv_lvr_id": 163,
+		"vlv_id_ven": 75,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 172,
+		"vlv_id_ven": 21,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 51,
+		"vlv_id_ven": 15,
+		"vlv_ven_valor_icms_unitario": 69
+	},
+	{
+		"vlv_lvr_id": 198,
+		"vlv_id_ven": 124,
+		"vlv_ven_valor_icms_unitario": 37
+	},
+	{
+		"vlv_lvr_id": 61,
+		"vlv_id_ven": 92,
+		"vlv_ven_valor_icms_unitario": 66
+	},
+	{
+		"vlv_lvr_id": 70,
+		"vlv_id_ven": 19,
+		"vlv_ven_valor_icms_unitario": 72
+	},
+	{
+		"vlv_lvr_id": 100,
+		"vlv_id_ven": 25,
+		"vlv_ven_valor_icms_unitario": 57
+	},
+	{
+		"vlv_lvr_id": 10,
+		"vlv_id_ven": 33,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 242,
+		"vlv_id_ven": 43,
+		"vlv_ven_valor_icms_unitario": 49
+	},
+	{
+		"vlv_lvr_id": 201,
+		"vlv_id_ven": 133,
+		"vlv_ven_valor_icms_unitario": 61
+	},
+	{
+		"vlv_lvr_id": 204,
+		"vlv_id_ven": 195,
+		"vlv_ven_valor_icms_unitario": 32
+	},
+	{
+		"vlv_lvr_id": 222,
+		"vlv_id_ven": 225,
+		"vlv_ven_valor_icms_unitario": 68
+	},
+	{
+		"vlv_lvr_id": 239,
+		"vlv_id_ven": 56,
+		"vlv_ven_valor_icms_unitario": 53
+	},
+	{
+		"vlv_lvr_id": 163,
+		"vlv_id_ven": 55,
+		"vlv_ven_valor_icms_unitario": 59
+	},
+	{
+		"vlv_lvr_id": 203,
+		"vlv_id_ven": 87,
+		"vlv_ven_valor_icms_unitario": 47
+	},
+	{
+		"vlv_lvr_id": 80,
+		"vlv_id_ven": 234,
+		"vlv_ven_valor_icms_unitario": 64
+	},
+	{
+		"vlv_lvr_id": 115,
+		"vlv_id_ven": 112,
+		"vlv_ven_valor_icms_unitario": 39
+	},
+	{
+		"vlv_lvr_id": 208,
+		"vlv_id_ven": 73,
+		"vlv_ven_valor_icms_unitario": 43
+	},
+	{
+		"vlv_lvr_id": 236,
+		"vlv_id_ven": 130,
+		"vlv_ven_valor_icms_unitario": 62
+	},
+	{
+		"vlv_lvr_id": 172,
+		"vlv_id_ven": 41,
+		"vlv_ven_valor_icms_unitario": 28
+	},
+	{
+		"vlv_lvr_id": 53,
+		"vlv_id_ven": 184,
+		"vlv_ven_valor_icms_unitario": 44
+	},
+	{
+		"vlv_lvr_id": 129,
+		"vlv_id_ven": 140,
+		"vlv_ven_valor_icms_unitario": 42
+	},
+	{
+		"vlv_lvr_id": 156,
+		"vlv_id_ven": 141,
+		"vlv_ven_valor_icms_unitario": 26
+	},
+	{
+		"vlv_lvr_id": 115,
+		"vlv_id_ven": 220,
+		"vlv_ven_valor_icms_unitario": 70
+	},
+	{
+		"vlv_lvr_id": 91,
+		"vlv_id_ven": 115,
+		"vlv_ven_valor_icms_unitario": 28
+	},
+	{
+		"vlv_lvr_id": 54,
+		"vlv_id_ven": 183,
+		"vlv_ven_valor_icms_unitario": 31
+	},
+	{
+		"vlv_lvr_id": 102,
+		"vlv_id_ven": 180,
+		"vlv_ven_valor_icms_unitario": 63
+	},
+	{
+		"vlv_lvr_id": 13,
+		"vlv_id_ven": 142,
+		"vlv_ven_valor_icms_unitario": 29
+	},
+	{
+		"vlv_lvr_id": 123,
+		"vlv_id_ven": 236,
+		"vlv_ven_valor_icms_unitario": 28
+	},
+	{
+		"vlv_lvr_id": 239,
+		"vlv_id_ven": 132,
+		"vlv_ven_valor_icms_unitario": 50
+	},
+	{
+		"vlv_lvr_id": 52,
+		"vlv_id_ven": 31,
+		"vlv_ven_valor_icms_unitario": 34
+	},
+	{
+		"vlv_lvr_id": 141,
+		"vlv_id_ven": 83,
+		"vlv_ven_valor_icms_unitario": 45
+	},
+	{
+		"vlv_lvr_id": 101,
+		"vlv_id_ven": 56,
+		"vlv_ven_valor_icms_unitario": 41
+	},
+	{
+		"vlv_lvr_id": 23,
+		"vlv_id_ven": 2,
+		"vlv_ven_valor_icms_unitario": 52
+	}
+]
